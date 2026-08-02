@@ -363,6 +363,12 @@
   "O": "Récupérez 7 fleurs d'acier sauvages.",
   "T": "Une situation délicate : Wild Steelbloom"
  },
+ "1005112": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Appel à tous les héros !\n\nNous avons récemment demandé à nos alchimistes de faire des recherches non autorisées sur les armes chimiques. Pour résumer, nous essayions de fabriquer une bombe empoisonnée. Avec le recul, nous n’aurions peut-être pas dû consacrer toutes nos ressources à un projet aussi ridicule, mais le recul est de 20/20, n’est-ce pas ? Quoi qu'il en soit, tous nos herboristes sont... indisposés pour le moment. À cause d'un mystérieux empoisonnement de masse sans aucun rapport.\n\nNous avons encore des délais à respecter. Nos alchimistes ont besoin de 10 Liferoots. Naturellement, vous serez généreusement récompensé pour votre aide, héros.",
+  "O": "Récupérez 10 racines vitales.",
+  "T": "Une situation délicate : Liferoot"
+ },
  "1005113": {
   "A": "Retournez au tableau d’appel.",
   "D": "Appel à tous les héros !\n\nNous avons récemment demandé à nos alchimistes de faire des recherches non autorisées sur les armes chimiques. Pour résumer, nous essayions de fabriquer une bombe empoisonnée. Avec le recul, nous n’aurions peut-être pas dû consacrer toutes nos ressources à un projet aussi ridicule, mais le recul est de 20/20, n’est-ce pas ? Quoi qu'il en soit, tous nos herboristes sont... indisposés pour le moment. À cause d'un mystérieux empoisonnement de masse sans aucun rapport.\n\nNous avons encore des délais à respecter. Nos alchimistes ont besoin de 10 moustaches de Khadgar. Naturellement, vous serez généreusement récompensé pour votre aide, héros.",
@@ -429,11 +435,23 @@
   "O": "Récupérez 20 cuirs moyens.",
   "T": "Une situation délicate : le cuir moyen"
  },
+ "1005158": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Attention aux héros !\n\nNous avons besoin de votre aide pour remplir une commande de fournitures récemment passée par la guilde des maroquiniers. Nos écorcheurs ont été arrêtés et harcelés alors qu'ils travaillaient par des militants des droits des animaux, il semble que nous ne pourrons honorer aucune de nos commandes jusqu'à ce que tout cela se termine. C'est là que tu entres en jeu, Héros... Protestation ou pas, nous avons des ordres à remplir, et je suis sûr qu'ils n'oseraient pas t'arrêter. Nos artisans du cuir ont besoin de 10 peaux légèrement séchées. Naturellement, vous serez généreusement récompensé pour votre aide, héros.",
+  "O": "Récupérez 3 peaux de lumière durcies.",
+  "T": "Une situation délicate : la peau durcie à la lumière"
+ },
  "1005159": {
   "A": "Retournez au tableau d’appel.",
   "D": "Attention aux héros !\n\nNous avons besoin de votre aide pour remplir une commande de fournitures récemment passée par la guilde des maroquiniers. Nos écorcheurs ont été arrêtés et harcelés alors qu'ils travaillaient par des militants des droits des animaux, il semble que nous ne pourrons honorer aucune de nos commandes jusqu'à ce que tout cela se termine. C'est là que tu entres en jeu, Héros... Protestation ou pas, nous avons des ordres à remplir, et je suis sûr qu'ils n'oseraient pas t'arrêter. Nos maroquiniers ont besoin de 2 peaux moyennes. Naturellement, vous serez généreusement récompensé pour votre aide, héros.",
   "O": "Récupérez 2 peaux moyennes.",
   "T": "Une situation délicate : peau moyenne"
+ },
+ "1005161": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Attention aux héros !\n\nNous avons besoin de votre aide pour remplir une commande de fournitures récemment passée par la guilde des maroquiniers. Nos écorcheurs ont été arrêtés et harcelés alors qu'ils travaillaient par des militants des droits des animaux, il semble que nous ne pourrons honorer aucune de nos commandes jusqu'à ce que tout cela se termine. C'est là que tu entres en jeu, Héros... Protestation ou pas, nous avons des ordres à remplir, et je suis sûr qu'ils n'oseraient pas t'arrêter. Nos maroquiniers ont besoin de 20 cuirs lourds. Naturellement, vous serez généreusement récompensé pour votre aide, héros.",
+  "O": "Récupérez 20 cuirs lourds.",
+  "T": "Une situation délicate : le cuir lourd"
  },
  "1005165": {
   "A": "Retournez au tableau d’appel.",
@@ -447,11 +465,23 @@
   "O": "Récupérez 2 balances déviées parfaites.",
   "T": "Une situation délicate : une échelle déviée parfaite"
  },
+ "1005173": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Attention aux héros !\n\nNous avons besoin de votre aide pour remplir une commande de fournitures récemment passée par la guilde des maroquiniers. Nos écorcheurs ont été arrêtés et harcelés alors qu'ils travaillaient par des militants des droits des animaux, il semble que nous ne pourrons honorer aucune de nos commandes jusqu'à ce que tout cela se termine. C'est là que tu entres en jeu, Héros... Protestation ou pas, nous avons des ordres à remplir, et je suis sûr qu'ils n'oseraient pas t'arrêter. Nos artisans du cuir ont besoin de 2 écailles de dragonnet vert. Naturellement, vous serez généreusement récompensé pour votre aide, héros.",
+  "O": "Récupérez 2 écailles de dragonnet vert.",
+  "T": "Une situation délicate : l'écaille du dragonnet vert"
+ },
  "1005175": {
   "A": "Retournez au tableau d’appel.",
   "D": "Attention aux héros !\n\nNous avons besoin de votre aide pour remplir une commande de fournitures récemment passée par la guilde des maroquiniers. Nos écorcheurs ont été arrêtés et harcelés alors qu'ils travaillaient par des militants des droits des animaux, il semble que nous ne pourrons honorer aucune de nos commandes jusqu'à ce que tout cela se termine. C'est là que tu entres en jeu, Héros... Protestation ou pas, nous avons des ordres à remplir, et je suis sûr qu'ils n'oseraient pas t'arrêter. Nos artisans du cuir ont besoin de 10 écailles de scorpide. Naturellement, vous serez généreusement récompensé pour votre aide, héros.",
   "O": "Récupérez 10 écailles de scorpide.",
   "T": "Une situation délicate : l'écaille du scorpide"
+ },
+ "1005179": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Attention aux héros !\n\nNous avons besoin de votre aide pour remplir une commande de fournitures récemment passée par la guilde des maroquiniers. Nos écorcheurs ont été arrêtés et harcelés alors qu'ils travaillaient par des militants des droits des animaux, il semble que nous ne pourrons honorer aucune de nos commandes jusqu'à ce que tout cela se termine. C'est là que tu entres en jeu, Héros... Protestation ou pas, nous avons des ordres à remplir, et je suis sûr qu'ils n'oseraient pas t'arrêter. Nos maroquiniers ont besoin de 20 cuirs robustes. Naturellement, vous serez généreusement récompensé pour votre aide, héros.",
+  "O": "Récupérez 20 cuirs robustes.",
+  "T": "Une situation délicate : le cuir robuste"
  },
  "1005186": {
   "A": "Retournez au tableau d’appel.",
@@ -470,6 +500,12 @@
   "D": "Attention aux héros !\n\nNous avons besoin de votre aide pour remplir une commande de fournitures récemment passée par la guilde des maroquiniers. Nos écorcheurs ont été arrêtés et harcelés alors qu'ils travaillaient par des militants des droits des animaux, il semble que nous ne pourrons honorer aucune de nos commandes jusqu'à ce que tout cela se termine. C'est là que tu entres en jeu, Héros... Protestation ou pas, nous avons des ordres à remplir, et je suis sûr qu'ils n'oseraient pas t'arrêter. Nos artisans du cuir ont besoin de 8 écailles de dragon noir. Naturellement, vous serez généreusement récompensé pour votre aide, héros.",
   "O": "Récupérez 6 écailles de dragon noir.",
   "T": "Une situation délicate : Écaille de dragon noir"
+ },
+ "1005192": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Attention aux héros !\n\nNous avons besoin de votre aide pour remplir une commande de fournitures récemment passée par la guilde des maroquiniers. Nos écorcheurs ont été arrêtés et harcelés alors qu'ils travaillaient par des militants des droits des animaux, il semble que nous ne pourrons honorer aucune de nos commandes jusqu'à ce que tout cela se termine. C'est là que tu entres en jeu, Héros... Protestation ou pas, nous avons des ordres à remplir, et je suis sûr qu'ils n'oseraient pas t'arrêter. Nos maroquiniers ont besoin de 2 cuirs de base. Naturellement, vous serez généreusement récompensé pour votre aide, héros.",
+  "O": "Récupérez 1 cuir de base.",
+  "T": "Une situation délicate : le cuir de base"
  },
  "1005193": {
   "A": "Retournez au tableau d’appel.",
@@ -561,6 +597,18 @@
   "O": "Récupérez 8 potions de mana mineures.",
   "T": "À court de fournitures : potion de mana mineure"
  },
+ "1005304": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 8 potions de guérison inférieures pour joindre les deux bouts.",
+  "O": "Récupérez 8 potions de guérison inférieures.",
+  "T": "À court de fournitures : potion de guérison inférieure"
+ },
+ "1005306": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 5 élixirs de sagesse pour joindre les deux bouts.",
+  "O": "Récupérez 5 élixirs de sagesse.",
+  "T": "À court de fournitures : Élixir de sagesse"
+ },
  "1005307": {
   "A": "Retournez au tableau d'affichage.",
   "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 8 potions de mana inférieures pour joindre les deux bouts.",
@@ -602,6 +650,12 @@
   "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 8 élixirs de détection des morts-vivants pour joindre les deux bouts.",
   "O": "Récupérez 5 élixir de détection des morts-vivants.",
   "T": "À court de fournitures : Élixir de détection des morts-vivants"
+ },
+ "1005327": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 5 élixirs d’intellect supérieur pour joindre les deux bouts.",
+  "O": "Récupérez 5 élixirs d’intellect supérieur.",
+  "T": "À court de fournitures : Élixir du Grand Intelligence"
  },
  "1005328": {
   "A": "Retournez au tableau d’appel.",
@@ -717,6 +771,12 @@
   "O": "Récupérez 3 bottes en bronze brut.",
   "T": "À court de fournitures : bottes en bronze brut"
  },
+ "1005381": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 3 dagues en cuivre pour joindre les deux bouts.",
+  "O": "Récupérez 3 dagues en cuivre.",
+  "T": "À court de fournitures : Dague en cuivre"
+ },
  "1005383": {
   "A": "Retournez au tableau d’appel.",
   "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 6 meules solides pour joindre les deux bouts.",
@@ -728,6 +788,12 @@
   "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 2 espadons en bronze pour joindre les deux bouts.",
   "O": "Récupérez 2 espadons en bronze.",
   "T": "À court de fournitures : Espadon en bronze"
+ },
+ "1005394": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 2 haches de combat en bronze pour joindre les deux bouts.",
+  "O": "Récupérez 2 haches de combat en bronze.",
+  "T": "À court de fournitures : hache de combat en bronze"
  },
  "1005395": {
   "A": "Retournez au tableau d’appel.",
@@ -789,6 +855,12 @@
   "O": "Récupérez 3 lunettes Flying Tiger.",
   "T": "À court de fournitures : lunettes Flying Tiger"
  },
+ "1005425": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 8 grandes bombes de cuivre pour joindre les deux bouts.",
+  "O": "Récupérez 8 grosses bombes en cuivre.",
+  "T": "À court de fournitures : grosse bombe en cuivre"
+ },
  "1005427": {
   "A": "Retournez au tableau d’appel.",
   "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 5 petites bombes en bronze pour joindre les deux bouts.",
@@ -806,6 +878,12 @@
   "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 8 Heavy Dynamites pour joindre les deux bouts.",
   "O": "Récupérez 8 dynamites lourdes.",
   "T": "À court de fournitures : Dynamite lourde"
+ },
+ "1005432": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 2 fusils de chasse plaqués argent pour joindre les deux bouts.",
+  "O": "Récupérez 2 fusils de chasse plaqués argent.",
+  "T": "À court de fournitures : fusil de chasse plaqué argent"
  },
  "1005434": {
   "A": "Retournez au tableau d’appel.",
@@ -855,6 +933,12 @@
   "O": "Récupérez 2 micro-ajusteurs gyromatiques.",
   "T": "À court de fournitures : micro-ajusteur gyromatique"
  },
+ "1005455": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 5 déclencheurs instables pour joindre les deux bouts.",
+  "O": "Récupérez 5 déclencheurs instables.",
+  "T": "À court de fournitures : déclencheur instable"
+ },
  "1005457": {
   "A": "Retournez au tableau d’appel.",
   "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 2 Blunderbuss en Mithril pour joindre les deux bouts.",
@@ -866,6 +950,12 @@
   "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 3 bombes à fragmentation en mithril pour joindre les deux bouts.",
   "O": "Récupérez 8 bombes à fragmentation en mithril.",
   "T": "À court de fournitures : bombe à fragmentation en mithril"
+ },
+ "1005469": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 3 grenades au thorium pour joindre les deux bouts.",
+  "O": "Récupérez 8 grenades au thorium.",
+  "T": "À court de fournitures : Grenade au thorium"
  },
  "1005484": {
   "A": "Retournez au tableau d’appel.",
@@ -908,6 +998,12 @@
   "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 10 peaux de lumière séchées pour joindre les deux bouts.",
   "O": "Récupérez 4 peaux légères durcies.",
   "T": "À court de fournitures : peau durcie à la lumière"
+ },
+ "1005500": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 10 peaux moyennes séchées pour joindre les deux bouts.",
+  "O": "Récupérez 2 peaux moyennes séchées.",
+  "T": "À court de fournitures : peau moyenne séchée"
  },
  "1005503": {
   "A": "Retournez au tableau d’appel.",
@@ -1011,6 +1107,24 @@
   "O": "Récupérez 20 cuirs robustes.",
   "T": "À court de fournitures : cuir robuste"
  },
+ "1005549": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 4 bottes en lin pour joindre les deux bouts.",
+  "O": "Récupérez 4 bottes en lin.",
+  "T": "À court de fournitures : bottes en lin"
+ },
+ "1005552": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 3 chemises en lin bleu pour joindre les deux bouts.",
+  "O": "Récupérez 3 chemises en lin bleu.",
+  "T": "À court de fournitures : chemise en lin bleu"
+ },
+ "1005554": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 3 chemises vertes en lin pour joindre les deux bouts.",
+  "O": "Récupérez 3 chemises en lin vert.",
+  "T": "À court de fournitures : chemise en lin verte"
+ },
  "1005559": {
   "A": "Retournez au tableau d’appel.",
   "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 3 chemises en laine grises pour joindre les deux bouts.",
@@ -1053,6 +1167,12 @@
   "O": "Récupérez 5 robes simples.",
   "T": "À court de fournitures : robe simple"
  },
+ "1005585": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 4 robes blanches en laine pour joindre les deux bouts.",
+  "O": "Récupérez 4 robes en laine blanche.",
+  "T": "À court de fournitures : robe en laine blanche"
+ },
  "1005606": {
   "A": "Retournez au tableau d’appel.",
   "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 5 chemises orange en tisse-mage pour joindre les deux bouts.",
@@ -1088,6 +1208,12 @@
   "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 4 pantalons en tissu runique pour joindre les deux bouts.",
   "O": "Récupérez 4 pantalons en tissu runique.",
   "T": "À court de fournitures : pantalons en étoffe runique"
+ },
+ "1005642": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 2 turbans Wizardweave pour joindre les deux bouts.",
+  "O": "Récupérez 2 turbans en tisse-sorcier.",
+  "T": "À court de fournitures : Turban en tisse-sorcier"
  },
  "1005645": {
   "A": "Retournez au tableau d’appel.",
@@ -1173,6 +1299,12 @@
   "O": "Récupérez 20 bandages en tisse-mage.",
   "T": "Conclusion : bandage Mageweave"
  },
+ "1005659": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 15 bandages lourds en tisse-mage pour joindre les deux bouts.",
+  "O": "Récupérez 10 bandages lourds en tisse-mage.",
+  "T": "Conclusion : bandage lourd en tisse-mage"
+ },
  "1005660": {
   "A": "Retournez au tableau d’appel.",
   "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière. Nous avons besoin de 20 bandages en étoffe runique pour joindre les deux bouts.",
@@ -1190,6 +1322,12 @@
   "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière.",
   "O": "Récupérez 7 bouches noires grasses.",
   "T": "Une ligne mince : Blackmouth grasse"
+ },
+ "1005663": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière.",
+  "O": "Récupérez 10 Redgills crus.",
+  "T": "Une ligne mince : Redgill cru"
  },
  "1005664": {
   "A": "Retournez au tableau d’appel.",
@@ -1449,6 +1587,12 @@
   "O": "Récupérez 10 pierres de poids gangrenées",
   "T": "La course aux armements : Fel Weightstone"
  },
+ "1007495": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Il semblerait que nous soyons à court d'herbes pour notre dernier mélange...$b$bNous avons besoin de votre aide, les héros. C'est peut-être un travail subalterne, mais nous avons manqué d'herbes pour notre dernier mélange ! Nous fabriquons des mélanges d’herbes entièrement naturels sans aucun arôme ajouté ! Cependant, notre dernier mélange d’herbes semble se vendre rapidement et nous manquons de fournitures pour en fabriquer davantage ! Pensez-vous que vous pourriez nous rendre service ?$b$bRécupérez 4 élixirs de maîtrise. Naturellement, vous serez généreusement récompensé pour votre aide, héros.",
+  "O": "Récupérez 4 élixirs de maîtrise",
+  "T": "Mélange naturel : Élixir de maîtrise"
+ },
  "1007497": {
   "A": "Retournez au tableau d’appel.",
   "D": "Il semblerait que nous soyons à court d'herbes pour notre dernier mélange...$b$bNous avons besoin de votre aide, les héros. C'est peut-être un travail subalterne, mais nous avons manqué d'herbes pour notre dernier mélange ! Nous fabriquons des mélanges d’herbes entièrement naturels sans aucun arôme ajouté ! Cependant, notre dernier mélange d’herbes semble se vendre rapidement et nous manquons de fournitures pour en fabriquer davantage ! Pensez-vous que vous pourriez nous rendre service ?$b$bRécupérez 4 élixir d'assaut. Naturellement, vous serez généreusement récompensé pour votre aide, héros.",
@@ -1609,6 +1753,12 @@
   "O": "Récupérez 6 Parchemins d'enchantement de brassards - Mineur Esprit.",
   "T": "À court de fournitures : Parchemin d'enchantement de bracelets - Mineur Esprit"
  },
+ "1038775": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière.",
+  "O": "Récupérez 3 parchemins d'enchantement de cape – Protection mineure.",
+  "T": "À court de fournitures : Parchemin d'enchantement de cape - Protection mineure"
+ },
  "1038785": {
   "A": "Retournez au tableau d’appel.",
   "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière.",
@@ -1637,6 +1787,12 @@
   "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière.",
   "O": "Récupérez 3 parchemins d'enchantement de coffre – Statistiques mineures.",
   "T": "À court de fournitures : Parchemin d'enchantement de coffre – Statistiques mineures"
+ },
+ "1038806": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière.",
+  "O": "Récupérez 3 parchemins d'enchantement de cape - Défense.",
+  "T": "À court de fournitures : Parchemin d'enchantement de cape - Défense"
  },
  "1038809": {
   "A": "Retournez au tableau d’appel.",
@@ -1674,6 +1830,12 @@
   "O": "Récupérez 2 parchemins d'enchantement de bouclier - Givre Résistance.",
   "T": "À court de fournitures : Parchemin d'enchantement de bouclier - Givre Résistance"
  },
+ "1038856": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière.",
+  "O": "Récupérez 6 Parchemins d'enchantement de gants - Supérieur Agilité.",
+  "T": "À court de fournitures : Parchemin d'enchantement de gants - Supérieur Agilité"
+ },
  "1038857": {
   "A": "Retournez au tableau d’appel.",
   "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière.",
@@ -1685,6 +1847,12 @@
   "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière.",
   "O": "Récupérez 9 Parchemins d'enchantement de bottes - Supérieur Endurance.",
   "T": "À court de fournitures : Parchemin d'enchantement de bottes - Supérieur Endurance"
+ },
+ "1038864": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Salutations Héros !\nNous nous sommes récemment retrouvés au milieu d'une pénurie d'approvisionnement et espérions qu'un artisan de votre calibre pourrait nous sortir de cette ornière.",
+  "O": "Récupérez 2 parchemins d'enchantement de bottes - Esprit.",
+  "T": "À court de fournitures : Parchemin d'enchantement de bottes - Esprit"
  },
  "1038866": {
   "A": "Retournez au tableau d’appel.",
@@ -1776,6 +1944,11 @@
   "O": "Choisissez un parchemin mystique.",
   "T": "Mage : Parchemins mystiques"
  },
+ "1100034": {
+  "D": "Avez-vous entendu parler des enchantements mystiques ? Ces pouvoirs mystiques peuvent grandement vous améliorer, vous et vos capacités. Pour les débloquer, vous devrez trouver des parchemins mystiques dispersés à travers le monde. Une fois que vous avez acquis un parchemin, vous pouvez exploiter son pouvoir sur un autel d’enchantement mystique.\r\n\r\nJ’ai réussi à récupérer trois de ces parchemins. Vous pouvez en choisir un pour vous aider dans votre voyage.",
+  "O": "Choisissez un parchemin mystique.",
+  "T": "Paladin : Parchemins mystiques"
+ },
  "1100036": {
   "D": "Avez-vous entendu parler des enchantements mystiques ? Ces pouvoirs mystiques peuvent grandement vous améliorer, vous et vos capacités. Pour les débloquer, vous devrez trouver des parchemins mystiques dispersés à travers le monde. Une fois que vous avez acquis un parchemin, vous pouvez exploiter son pouvoir sur un autel d’enchantement mystique.\r\n\r\nJ’ai réussi à récupérer trois de ces parchemins. Vous pouvez en choisir un pour vous aider dans votre voyage.",
   "O": "Choisissez un parchemin mystique.",
@@ -1846,6 +2019,11 @@
   "O": "Choisissez un parchemin mystique.",
   "T": "Paladin : Parchemins mystiques"
  },
+ "1100057": {
+  "D": "Avez-vous entendu parler des enchantements mystiques ? Ces pouvoirs mystiques peuvent grandement vous améliorer, vous et vos capacités. Pour les débloquer, vous devrez trouver des parchemins mystiques dispersés à travers le monde. Une fois que vous avez acquis un parchemin, vous pouvez exploiter son pouvoir sur un autel d’enchantement mystique.\r\n\r\nJ’ai réussi à récupérer trois de ces parchemins. Vous pouvez en choisir un pour vous aider dans votre voyage.",
+  "O": "Choisissez un parchemin mystique.",
+  "T": "Chaman : Parchemins mystiques"
+ },
  "1108102": {
   "A": "Retournez au tableau d’appel.",
   "D": "Faites vos preuves sur le champ de bataille ! Rendez-vous sur le champ de bataille désigné et tuez les gangreforgés qui envahissent Azeroth !\n\nLorsque vous vous trouvez dans une zone de champ de bataille désignée, vous gagnerez des âmes purifiées bonus en tuant des Gangreforgés.",
@@ -1900,6 +2078,12 @@
   "D": "Voyagez à Feralas et battez 3 joueurs. Feralas est une zone PvP 1v1 permanente.\n\nBattez d'autres joueurs dans un combat honorable 1v1. Vous et votre victime devez tous deux avoir Treasure Hunter: Honorable Combat actif.\n\nTreasure Hunter : Dungeon nécessite un niveau moyen compris entre 35 et 47.\n\nhttps://project-ascension.fandom.com/wiki/Honorable_Combat\nhttps://project-ascension.fandom.com/wiki/High_Risk",
   "O": "Tuez 3 joueurs dans un combat honorable 1v1 à Feralas. Vous et votre cible devez avoir Treasure Hunter : Dungeon actif pour recevoir un crédit de kill.",
   "T": "Combat honorable : Donjon (risque élevé)"
+ },
+ "1229": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Voyagez à Winterspring et battez 3 joueurs. Winterspring est une zone PvP 1v1 permanente.\n\nBattez d'autres joueurs dans un combat honorable 1v1. Vous et votre victime devez tous deux avoir Treasure Hunter : Zul'Gurub actif.\n\nChasseur de Trésor : Zul'Gurub nécessite un ilvl moyen compris entre 48 et 52.\n\nhttps://project-ascension.fandom.com/wiki/Honorable_Combat\nhttps://project-ascension.fandom.com/wiki/High_Risk",
+  "O": "Tuez 3 joueurs dans un combat honorable 1v1 à Winterspring. Vous et votre cible devez avoir Chasseur de Trésor : Zul'Gurub actif pour recevoir le crédit de mise à mort.",
+  "T": "Combat honorable : Zul'gurub (risque élevé)"
  },
  "12687": {
   "A": "Retournez voir Salanar le Cavalier à Brèche-de-Mort, dans les Maleterres : l’enclave Écarlate.",
@@ -2849,6 +3033,18 @@
    ""
   ],
   "T": "Cryptoarchéologie"
+ },
+ "1650224": {
+  "A": "Faire son rapport à Amadeus",
+  "D": "Vous avez parcouru l'île en poursuivant chaque fil, mais la chute des trolls n'est pas encore lue. Voulez-vous la vérité, claire et nette ? Ensuite, vous devez vous diriger vers le Grand Temple du Dormeur.$b$b<La voix chantante d'Amadeus prend un ton sobre et sévère. Il ne parle plus en rimes.>$b$bUn mot d'avertissement avant de partir : les salles du temple sont loin d'être nues. Pour vous éviter de trébucher dans le noir, je vous dirai ceci : les réponses que vous cherchez sont sur une tablette.$b$bAh, oui…. Les trolls ont ravalé leur orgueil et gravé dans la pierre leur honte, la grande honte de ce qu'ils ont déclenché, en espérant que personne ne répéterait leur folie.$b$bRevenez me voir lorsque vous aurez eu le temps de l'étudier.",
+  "O": "Explorez le temple des trolls et recherchez l'ancienne tablette des trolls.",
+  "OT": [
+   "Trouver la tablette usée",
+   "",
+   "",
+   ""
+  ],
+  "T": "Les murmures de la tablette"
  },
  "1650226": {
   "A": "Retour à Gizmo",
@@ -3884,6 +4080,12 @@
   "D": "C'est dommage, $N. Les Défias ont envahi le verger de Mirror Lake et détournent les récoltes. Je me souviens que ma mère me préparait sa célèbre tarte aux pommes de Mirror Lake quand j'étais enfant. C'est quelque chose que j'aimerais pouvoir partager avec le reste des hommes ici à la garnison.$B$BDis, tu as l'air d'un homme qui a beaucoup voyagé $R. Pensez-vous que vous pourriez vous aventurer jusqu'au verger de Mirror Lake, au nord-est de la garnison, et y récolter suffisamment de pommes pour que je puisse faire des tartes ? Je vais même vous en préparer quelques-uns ! Oh, et n'hésitez pas à présenter nos salutations aux Défias.",
   "O": "Récupérez 8 pommes du lac Mirror et rapportez-les au sergent De Vries à la garnison de Westbrook.",
   "T": "Récupérer la récolte"
+ },
+ "17009": {
+  "A": "Trouvez le tronc gorgé d’eau au large de la marche de l’Ouest.",
+  "D": "La carte est tachée d'algues et de saleté. Heureusement, il semble y avoir un texte griffonné vers le bas que vous pouvez à peine distinguer.$B$B \"Je n'arrive pas à croire que nous ayons réussi à échapper à ces horribles \"choses\" de poissons avec nos vies, mais nous avons aussi réussi à nous en sortir avec leur trésor ! J'ai marqué la carte pour ne pas oublier où j'ai caché le butin. Ce serait dommage d'arriver aussi loin pour oublier dans quel navire j'ai jeté le coffre. Je serai sûr de quitter cette carte. dans un endroit sûr où les regards indiscrets ne penseront pas à regarder. » Il semble y avoir d'autres griffonnages, mais vous ne pouvez pas les distinguer.$B$BIl n'y a pas grand-chose à dire, mais il semblerait que le trésor dont parle cette carte soit caché sous les vagues dans l'une des épaves.",
+  "O": "Trouvez le tronc gorgé d’eau au large de la marche de l’Ouest.",
+  "T": "Trésor englouti"
  },
  "17011": {
   "A": "Tuez 8 brutes Riverpaw, 12 bâtards Riverpaw et 10 herboristes Riverpaw.",
@@ -5735,6 +5937,10 @@
   "O": "Entrez Maraudon et tuez la princesse Theradras.",
   "T": "Donjon des Marcheurs du Temps : Maraudon"
  },
+ "17824": {
+  "A": "Retournez voir Rashona Straglash à Durotar.",
+  "T": "Un don de Netherweave"
+ },
  "17838": {
   "A": "Retournez au tableau d’appel.",
   "D": "Héros, les vils ogres Bloodmaul ont envahi les confins sud de Blade's Edge ! Leurs guerriers brutaux et leurs loups féroces menacent la stabilité de la région. Je demande humblement votre aide pour réduire leur nombre. Voyagez vers le sud et tuez les brutes Bloodmaul, les travailleurs, les maîtres brasseurs et les loups redoutables qui parcourent la terre. Cela affaiblirait l’emprise du Bloodmaul et rendrait la terre plus sûre pour tous.",
@@ -6815,6 +7021,17 @@
   ],
   "T": "Chemin vers l'Ascension : voyage vers la capitale"
  },
+ "1903535": {
+  "D": "Le moment est venu de voyager vers la capitale $R ! Hurlevent se trouve loin au-delà de l'océan, mais nos navires et nos vents forts vous emmèneront dans la grande ville en un rien de temps. \n\nSuivez la route à l'ouest de l'Exodar et rencontrez la chasseresse Kella Nightbow au poste d'amarrage de Valaar. Elle vous guidera dans votre voyage vers la capitale.",
+  "O": "Prenez la route à l’ouest depuis l’Exodar et dirigez-vous vers le poste d’amarrage de Valaar. Parlez à la chasseresse Kella Nightbow à votre arrivée.",
+  "OT": [
+   "Prenez la route à l’ouest depuis l’Exodar et dirigez-vous vers le poste d’amarrage de Valaar. Parlez à la chasseresse Kella Nightbow à votre arrivée",
+   "",
+   "",
+   ""
+  ],
+  "T": "Chemin vers l'Ascension : voyage vers la capitale"
+ },
  "1903537": {
   "A": "Rendez-vous à Goldshire et parlez au maréchal Dughan.",
   "D": "Acquérez de l’expérience pour progresser votre niveau. Obtenir des niveaux vous donne plus de pouvoir, de sorts, d'accès aux donjons, aux fonctionnalités et à de nouvelles zones.\n\nVous pouvez afficher votre barre d'expérience directement au-dessus de vos raccourcis clavier. En passant la souris sur la barre, vous verrez exactement combien d'expérience vous avez et combien vous devez obtenir pour atteindre un nouveau niveau.\n\nGagnez suffisamment d'expérience pour remplir votre barre d'expérience 6 fois et atteindre le niveau 7. Vous pouvez gagner de l'expérience en tuant des monstres proches de votre niveau dans le monde, ou en accomplissant des quêtes. Parlez à un PNJ avec un point d'exclamation jaune au-dessus de sa tête pour accepter de nouvelles quêtes. Vous pouvez voir l'emplacement des quêtes à proximité sur votre mini-carte !",
@@ -7157,6 +7374,18 @@
   "O": "Parlez au vendeur de progression PvP",
   "OT": [
    "Parlez à John « Sailor » Honor, le vendeur de progression PvP à Hurlevent.",
+   "",
+   "",
+   ""
+  ],
+  "T": "Chemin vers l'ascension : fournisseur de progression PvP"
+ },
+ "1903604": {
+  "A": "Visitez le vendeur de progression PvP à Orgrimmar.",
+  "D": "Parlez à John « Sailor » Honor, le vendeur de progression PvP à Orgrimmar.",
+  "O": "Parlez au vendeur de progression PvP",
+  "OT": [
+   "Parlez à John « Sailor » Honor, le vendeur de progression PvP à Orgrimmar.",
    "",
    "",
    ""
@@ -8084,6 +8313,19 @@
   "D": "Certains citoyens du Harbourage ont repéré ce que je pense être des Gan'arg, de petits techniciens au service de la Légion ardente, à l'extrémité est du marais.\r\n\r\nNous ne pouvons pas permettre à la Légion de prendre pied près d’ici. Les Perdus seront sûrement confrontés à davantage de corruption s’ils continuent, et même le Havre ne sera pas sûr.\r\n\r\nTrouvez leur camp et détruisez tout. Ne laissez pas un seul démon ou leurs misérables machines rester.",
   "O": "Tuez les ouvriers de Gan'arg et détruisez les prototypes de canon gangrené dans le marais des Chagrins.",
   "T": "Ingénierie gangrenée"
+ },
+ "255062": {
+  "A": "Retournez voir Ja'kani au port.",
+  "D": "Attendez! Reste ta lame, mon gars. Je ne te veux pas de mal. Je suis prisonnier, tu vois ?\n\nDey m'a pris pour être leur guide. Je ne sais rien du marais, mais je n'écoute toujours pas un mot de ce que dit Ja'kani.\n\nLes esprits soient en colère contre eux, c'est peut-être pour cela que les esprits vous envoient ? Les esprits fonctionnent parfois de façon étrange.\n\nJe connais bien le marais, mais il y a trop de ces démons et de leurs machines par ici. Ils ne me laissent pas sortir. Puis-je te demander de venir avec moi jusqu'à ce que nous sortions de leur camp, mon garçon ?",
+  "F": "Escortez Ja'kani hors du campement démoniaque.",
+  "O": "Escortez Ja'kani hors du campement démoniaque.",
+  "OT": [
+   "Escorter Ja'kani hors du campement des démons",
+   "",
+   "",
+   ""
+  ],
+  "T": "L'évasion de Ja'kani"
  },
  "255064": {
   "A": "Retournez voir Cersei Dusksinger à Stonard.",
@@ -9036,6 +9278,12 @@
   "O": "Bethan Bluewater veut que vous utilisiez vos compétences de secourisme pour fabriquer 20 bandages en tisse-mage et que vous apportiez la commande à Bethan Bluewater au bastion de Feathermoon à Feralas.",
   "T": "Commission pour Bethan Bluewater"
  },
+ "28482": {
+  "A": "Apportez la commission à Gavik Grimesail à Baie-du-Butin dans la vallée de Strangleronce.",
+  "D": "Je ne suis plus aussi rapide qu'avant, $N, et la mer s'en fiche. Une égratignure peut rapidement tourner au vinaigre. Le capitaine veut que je sois prêt à partir dès qu'il aura réglé ses affaires au port. Moi? J'aimerais me reposer avant de devoir remonter sur le gréement.$B$BJe sais ! Apportez-moi 20 bandages en soie, voulez-vous ? Je peux toujours manier un coutelas, mais j'ai besoin d'un peu plus d'aide pour rester en forme ces jours-ci.",
+  "O": "Gavik Grimesail veut que vous utilisiez vos compétences de secourisme pour fabriquer 20 bandages de soie et que vous apportiez la commande à Gavik Grimesail à Booty Bay dans la vallée de Strangleronce.",
+  "T": "Commission pour Gavik Grimesail"
+ },
  "28486": {
   "A": "Apportez la commission à Vira Younghoof au village Bloodhoof à Mulgore.",
   "D": "Les camps se remplissent rapidement de jeunes guerriers, de nouveaux sabots, tous désireux de faire leurs preuves. Et avec l'entraînement viennent des bleus, des égratignures et plus de fierté que de sens.$B$BNos magasins de bandages sont presque épuisés. Si vous pouvez m'apporter 20 bandages en lin, nous pourrons continuer à soigner ces blessures mineures avant qu'elles ne s'aggravent.",
@@ -9263,6 +9511,18 @@
   "D": "Pendant que je reste ici à geler mes sabots, Mura frémit à cause du vent froid qui vient de la mer et souffle à travers les vallées vallonnées comme le cri d'une banshee.$B$BPourriez-vous éventuellement lui fabriquer une cape en cuir fin qui protégera à la fois du vent et de la pluie ?",
   "O": "Le Sage Greenhorn veut que vous utilisiez vos compétences en travail du cuir pour fabriquer 1 cape en cuir fin et que vous en apportiez la commande au Totem runique de Mura au Sépulcre de la Forêt des Pins Argentés.",
   "T": "Commission pour le totem runique de Mura"
+ },
+ "28595": {
+  "A": "Apportez la commission à Kadrak, au Rempart de Mor'shan, à Orneval.",
+  "D": "J'aurais besoin de votre aide, maroquinier. À la demande du chef de guerre, j'essaie de remettre les troupes en forme ici, mais il y a une pénurie de fournitures. Pendant que je m'occupe des besoins du Poste de Splintertree, je ne peux pas négliger nos éclaireurs et nos éclaireurs.$B$BFabriquez une poignée de kits lourds Armure et livrez-les à nos troupes stationnées au Rempart de Mor'shan, à l'entrée des Tarides. Nous ne pouvons pas permettre que le Rempart tombe face à l'avancée de Silverwing, sinon nous serons coupés de nos forces dans le sud.",
+  "O": "Xirith veut que vous utilisiez vos compétences en travail du cuir pour fabriquer 5 kits lourds Armure et que vous apportiez la commande à Kadrak, au rempart de Mor'shan à Orneval.",
+  "T": "Commission pour Kadrak"
+ },
+ "28597": {
+  "A": "Apportez la commission à Starn au Freewind Post à Thousand Needles.",
+  "D": "Salutations, $N. Avez-vous des compétences avec une aiguille et du cuir ? J'aimerais recevoir quelques ceintures en cuir sombre comme cadeaux que mes parents pourraient ramener à la maison lors de leur prochaine visite au Poste de Vent Libre, mais nous n'avons pas de maroquinier en résidence.$B$BSi vous pouvez accepter cette commission, je serai heureux de vous payer et de vous ajouter quelques peaux de ma dernière chasse.",
+  "O": "Starn veut que vous utilisiez vos compétences en travail du cuir pour fabriquer 2 ceintures en cuir sombre et que vous preniez l'ordre de Starn au poste de Freewind à Thousand Needles.",
+  "T": "Commission pour Starn"
  },
  "28599": {
   "A": "Apportez la commission à Samantha Swifthoof lors de sa patrouille sur la route principale de Strangleronce Vale.",
@@ -9981,6 +10241,12 @@
   "O": "Voyagez à Hurlevent et apportez la Plaidoyer de Salomon au généralissime Bolvar Fordragon.$B$BBolvar réside dans le Donjon de Hurlevent.",
   "T": "Les vrais maîtres"
  },
+ "420430": {
+  "A": "Retournez au Nozdormu.",
+  "D": "En théorie, la théorie et la pratique sont les mêmes. En pratique, ce n’est pas le cas.\n\nSi vous avez besoin d'outils pour mettre votre théorie en pratique... ou si vous souhaitez simplement mettre en pratique un peu de théorie, vous pouvez gagner la Marque d'Ascension grâce aux quêtes quotidiennes et les rapporter ici pour des purges de capacités et de talents.\n\nVous pouvez essayer de nouvelles versions via l'avancement du personnage, charger des versions, puis rechercher dans les versions téléchargées celle qui correspond à votre fantaisie !\n\nVous pouvez également essayer de créer votre propre fantaisie de classe et même la partager avec d'autres héros.\n\nCETTE QUÊTE NE PEUT ÊTRE OBTENUE QUE SI VOUS N'AVEZ AUCUNE PURGE DE CAPACITÉ !",
+  "O": "Retournez au Nozdormu avec 200 marques d'ascension.",
+  "T": "Héros Architecte : Purge des capacités (répétable)"
+ },
  "420431": {
   "A": "Retournez au Nozdormu.",
   "D": "En théorie, la théorie et la pratique sont les mêmes. En pratique, ce n’est pas le cas.\n\nSi vous avez besoin d'outils pour mettre votre théorie en pratique... ou si vous souhaitez simplement mettre en pratique un peu de théorie, ces purges de capacités et de talents vous permettront de réinitialiser complètement votre build.\n\nVous pouvez essayer de nouvelles versions via l'avancement du personnage, charger des versions, puis rechercher dans les versions téléchargées celle qui correspond à votre fantaisie !\n\nVous pouvez également essayer de créer votre propre fantaisie de classe et même la partager avec d'autres héros.\n\nCETTE QUÊTE PEUT ÊTRE RÉPÉTÉE AU NIVEAU 60 SI VOUS N'AVEZ AUCUNE PURGE DE CAPACITÉ OU DE TALENT !",
@@ -10183,6 +10449,12 @@
  "492": {
   "P": "Avez-vous déjà récupéré 5 flacons de sang de chien noir, $n ? Le temps passe !",
   "R": "Vous avez bien fait, $n et je vous remercie pour vos efforts."
+ },
+ "4974": {
+  "A": "Retournez dans votre capitale.",
+  "D": "Rend ose faire de si grandes affirmations en raison de la protection que lui confère le vol noir.$B$BVous, $N, trouverez un moyen de traverser les salles de l'Ascension. Vous trouverez alors le « chef de guerre » Rend Blackhand et vous le détruirez - POUR LA HORDE !$B$BLa prochaine fois que vous reviendrez, vous lui tiendrez la tête haute en triomphe et vous me le présenterez ensuite. Faites cela et soyez honoré en tant que héros de la Horde.",
+  "O": "Rendez-vous à Blackrock Spire et tuez le chef de guerre Rend Blackhand.",
+  "T": "Pour la Horde !"
  },
  "49976": {
   "A": "Cherchez Niki Thesla dans la vallée du Comté du Nord.",
@@ -11793,6 +12065,30 @@
   ],
   "T": "Wildcard Chemin vers l'Ascension : Parchemin de Fortune"
  },
+ "580308": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Achetez des parchemins de fortune que vous avez déjà gagnés mais que vous n'avez pas utilisés. Cette option est disponible à chaque fois que vous gagnez du prestige.",
+  "O": "- Après avoir atteint le niveau maximum, rachetez tous les parchemins de fortune non dépensés en visitant Silas Sombrelune.",
+  "OT": [
+   "Rachetez les parchemins de fortune non dépensés auprès de Silas Sombrelune.",
+   "",
+   "",
+   ""
+  ],
+  "T": "Chemin vers l'Ascension Joker : Rachat par défilement"
+ },
+ "580311": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Utilisez Hero Architect pour importer les versions en vedette en mode Rerolling rapide. Les versions présentées sont optimisées pour une progression rapide.",
+  "O": "- Ouvrez Hero Architect et sélectionnez une version en vedette à utiliser dans Rapid Rerolling.",
+  "OT": [
+   "Désirez TOUS les sorts.",
+   "Désapprenez TOUS les sorts non-construction.",
+   "",
+   ""
+  ],
+  "T": "Chemin vers l'Ascension Joker : Relance rapide des versions complètes"
+ },
  "5921": {
   "D": "Tous les druides sont les bienvenus sur les terres sacrées de Moonglade, quelles que soient les tensions actuelles dans le cercle cénarien entre l'archidruide Forteram et le gardien Remulos, le gardien de Moonglade.  Maintenant que vous découvrez les voies de la Griffe, je vais vous apprendre le sort qui vous permet de vous y transporter.  Lancez-le chaque fois que vous recherchez les connaissances ou le réconfort de Moonglade.$B$BQuant à votre première leçon, voyagez à Moonglade et parlez à Dendrite Starblaze à Nighthaven du chemin que vous empruntez actuellement.  Bonne chance, jeune druide.",
   "O": "Voyagez à Moonglade.  À votre arrivée, parlez à Dendrite Starblaze dans le village de Nighthaven.",
@@ -12408,6 +12704,12 @@
   "O": "Récupérez 5 ragoûts de canard fondus.",
   "T": "Marchand d'armes : ragoût de canard fondu"
  },
+ "80781": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Une commande de réquisition a été passée pour 5 ragoûts de Mountainman. Seul un artisan expert utilisant des matériaux obtenus à haut risque peut créer ces objets de valeur.",
+  "O": "Récupérez 5 ragoûts fondus en morceaux.",
+  "T": "Marchand d'armes : ragoût fondu en morceaux"
+ },
  "80784": {
   "A": "Retournez au tableau d'affichage.",
   "D": "Une commande de réquisition a été passée pour 5 soupes jurassiques. Seul un artisan expert utilisant des matériaux obtenus à haut risque peut créer ces objets de valeur.",
@@ -12431,6 +12733,12 @@
   "D": "Une commande de réquisition a été passée pour 5 soupes subtiles sulfureuses. Seul un artisan expert utilisant des matériaux obtenus à haut risque peut créer ces objets de valeur.",
   "O": "Récupérez 5 soupes subtiles fondues.",
   "T": "Marchand d'armes : soupe subtile fondue"
+ },
+ "80798": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Une commande de réquisition a été passée pour 5 Storm Fried Roasts. Seul un artisan expert utilisant des matériaux obtenus à haut risque peut créer ces objets de valeur.",
+  "O": "Récupérez 5 rôtis sauvages fondus.",
+  "T": "Marchand d'armes : rôti sauvage fondu"
  },
  "80799": {
   "A": "Retournez au tableau d’appel.",
@@ -12462,6 +12770,12 @@
   "O": "Récupérez 3 flacons distillés d’assauts sauvages.",
   "T": "Marchand d'armes : Flacon distillé d'assaut sauvage"
  },
+ "80810": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Une commande de réquisition a été passée pour 3 flacons de tonnerres fracassants. Seul un artisan expert utilisant des matériaux obtenus à haut risque peut créer ces objets de valeur.",
+  "O": "Récupérez 3 flacons distillés de tonnerres fracassants.",
+  "T": "Marchand d'armes : flacon distillé de tonnerre fracassant"
+ },
  "80811": {
   "A": "Retournez au tableau d’appel.",
   "D": "Une commande de réquisition a été passée pour 3 flacons des bourreaux. Seul un artisan expert utilisant des matériaux obtenus à haut risque peut créer ces objets de valeur.",
@@ -12492,11 +12806,23 @@
   "O": "Récupérez 1 boucle de ceinture montagneuse.",
   "T": "Marchand d'armes : Boucle de ceinture montagneuse"
  },
+ "80821": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Une commande a été passée pour 1 boucles de ceinture déflectrices. Seul un artisan expert utilisant des matériaux obtenus à haut risque peut créer ces objets de valeur.",
+  "O": "Récupérez 1 boucle de ceinture déflectrice.",
+  "T": "Marchand d'armes : boucle de ceinture déflectrice"
+ },
  "80822": {
   "A": "Retournez au tableau d’appel.",
   "D": "Une commande de réquisition a été passée pour 1 boucles de ceinture Roguish. Seul un artisan expert utilisant des matériaux obtenus à haut risque peut créer ces objets de valeur.",
   "O": "Récupérez 1 boucle de ceinture espiègle.",
   "T": "Marchand d'armes : boucle de ceinture espiègle"
+ },
+ "80823": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Une commande de réquisition a été passée pour 1 boucles de ceinture dansantes. Seul un artisan expert utilisant des matériaux obtenus à haut risque peut créer ces objets de valeur.",
+  "O": "Récupérez 1 boucle de ceinture dansante.",
+  "T": "Marchand d'armes : boucle de ceinture dansante"
  },
  "80824": {
   "A": "Retournez au tableau d’appel.",
@@ -12531,6 +12857,12 @@
   "D": "Une commande de réquisition a été passée pour 1 Precision Scopes. Seul un artisan expert utilisant des matériaux obtenus à haut risque peut créer ces objets de valeur.",
   "O": "Récupérez 1 lunette de précision ciblée.",
   "T": "Marchand d’armes : une lunette de précision ciblée"
+ },
+ "80835": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Une commande de 10 bandes de fureur a été passée. Seul un artisan expert utilisant des matériaux obtenus à haut risque peut créer ces objets de valeur.",
+  "O": "Exécutez l'ordre de réquisition.",
+  "T": "Marchand d'armes : Bandes de poignet de fureur"
  },
  "80837": {
   "A": "Retournez au tableau d’appel.",
@@ -14347,6 +14679,12 @@
   "O": "Rendez-vous à Un'Goro et terminez la chasse. Cette quête ne peut être accomplie qu'en mode à haut risque.",
   "T": "Expédition sanglante : cratère d'Un'goro Est"
  },
+ "967376": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Une expédition a été envoyée à la Ruche'Zora en Silithus pour détruire les Silithides.",
+  "O": "Rendez-vous à la Ruche'Zora en Silithus et détruisez les Silithides.  Cette quête ne peut être accomplie qu'en mode à haut risque.",
+  "T": "Expédition sanglante : Lutte antiparasitaire silithide - Hive'Zora"
+ },
  "967377": {
   "A": "Retournez au tableau d’appel.",
   "D": "Une expédition a été envoyée au Crystal Vale en Silithus pour détruire les élémentaux.",
@@ -14586,6 +14924,18 @@
   "D": "Une expédition a été envoyée à Mazthoril à Winterspring pour détruire le Wyrmkin de Cobalt.",
   "O": "Rendez-vous à Mazthoril à Winterspring et détruisez le Wyrmkin de Cobalt. Cette quête ne peut être accomplie qu'en mode à haut risque.",
   "T": "Expédition sanglante : élimination du cobalt"
+ },
+ "967438": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Une expédition a été envoyée dans les camps du Crépuscule en Silithus pour détruire les cultistes du Crépuscule.",
+  "O": "Rendez-vous aux camps du Crépuscule en Silithus et détruisez les cultistes du Crépuscule. Cette quête ne peut être accomplie qu'en mode à haut risque.",
+  "T": "Expédition sanglante : Bonne nuit Twilight"
+ },
+ "967439": {
+  "A": "Retournez au tableau d’appel.",
+  "D": "Attention à tous les chasseurs ! Hemit Nesingwary a mis à prix les bêtes de Silithus !",
+  "O": "Rendez-vous à Silithus et terminez la chasse. Cette quête ne peut être accomplie qu'en mode à haut risque.",
+  "T": "Expédition sanglante : Silithus occidental"
  },
  "967440": {
   "A": "Retournez au tableau d’appel.",

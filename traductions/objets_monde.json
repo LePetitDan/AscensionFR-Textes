@@ -113,6 +113,12 @@
  "100032": {
   "N": "Tome prophétique brûlé"
  },
+ "100033": {
+  "N": "Cache squelette"
+ },
+ "100034": {
+  "N": "Cadavre exsangue chuchotant"
+ },
  "100036": {
   "N": "Cadavre exsangue terrifiant"
  },
@@ -1025,6 +1031,63 @@
  "107776": {
   "N": "Étagère poussiéreuse"
  },
+ "107799": {
+  "N": "Forge"
+ },
+ "107800": {
+  "N": "Enclume"
+ },
+ "107843": {
+  "N": "Poêle"
+ },
+ "107852": {
+  "N": "Banc"
+ },
+ "107853": {
+  "N": "Banc"
+ },
+ "107854": {
+  "N": "Banc"
+ },
+ "107855": {
+  "N": "Banc"
+ },
+ "107856": {
+  "N": "Banc"
+ },
+ "107857": {
+  "N": "Banc"
+ },
+ "107858": {
+  "N": "Banc"
+ },
+ "107859": {
+  "N": "Banc"
+ },
+ "107860": {
+  "N": "Banc"
+ },
+ "107861": {
+  "N": "Banc"
+ },
+ "107862": {
+  "N": "Banc"
+ },
+ "107863": {
+  "N": "Banc"
+ },
+ "107864": {
+  "N": "Banc"
+ },
+ "107865": {
+  "N": "Banc"
+ },
+ "107866": {
+  "N": "Banc"
+ },
+ "107867": {
+  "N": "Banc"
+ },
  "107912": {
   "N": "Chaise"
  },
@@ -1072,6 +1135,39 @@
  },
  "107985": {
   "N": "Forge"
+ },
+ "107998": {
+  "N": "Banc en bois"
+ },
+ "107999": {
+  "N": "Banc en bois"
+ },
+ "108000": {
+  "N": "Banc en bois"
+ },
+ "108003": {
+  "N": "Banc en bois"
+ },
+ "108010": {
+  "N": "Banc en bois"
+ },
+ "108011": {
+  "N": "Banc en bois"
+ },
+ "108013": {
+  "N": "Banc en bois"
+ },
+ "108014": {
+  "N": "Banc en bois"
+ },
+ "108015": {
+  "N": "Banc en bois"
+ },
+ "108016": {
+  "N": "Banc en bois"
+ },
+ "108017": {
+  "N": "Banc en bois"
  },
  "108064": {
   "N": "Caisse de nourriture"
@@ -1229,6 +1325,9 @@
  "108202": {
   "N": "Caisse endommagée"
  },
+ "108218": {
+  "N": "Vieilles haines - La colonisation de Kalimdor"
+ },
  "108219": {
   "N": "Faille temporelle du silo d'Andorhal"
  },
@@ -1280,6 +1379,9 @@
  "108290": {
   "N": "Le Fort d'Argent"
  },
+ "108292": {
+  "N": "Chariot de Styleen"
+ },
  "108294": {
   "N": "Feu de camp"
  },
@@ -1325,6 +1427,9 @@
  "108364": {
   "N": "Livre \"La devinette pour les nuls\""
  },
+ "108369": {
+  "N": "Cloche"
+ },
  "108382": {
   "N": "Tas d'os"
  },
@@ -1346,8 +1451,65 @@
  "108413": {
   "N": "Les avoirs d'Izzy"
  },
+ "108419": {
+  "N": "Coffret écarlate"
+ },
+ "108422": {
+  "N": "Chaise"
+ },
  "108423": {
   "N": "Brasero"
+ },
+ "108424": {
+  "N": "Brasero"
+ },
+ "108425": {
+  "N": "Brasero"
+ },
+ "108426": {
+  "N": "Brasero"
+ },
+ "108427": {
+  "N": "Brasero"
+ },
+ "108428": {
+  "N": "Brasero"
+ },
+ "108429": {
+  "N": "Brasero"
+ },
+ "108430": {
+  "N": "Brasero"
+ },
+ "108431": {
+  "N": "Chaise à dossier haut"
+ },
+ "108432": {
+  "N": "Chaise"
+ },
+ "108433": {
+  "N": "Chaise"
+ },
+ "108434": {
+  "N": "Chaise"
+ },
+ "108435": {
+  "N": "Chaise"
+ },
+ "108436": {
+  "N": "Chaise"
+ },
+ "108437": {
+  "N": "Chaise"
+ },
+ "108438": {
+  "N": "Chaise"
+ },
+ "108439": {
+  "N": "Chaise"
+ },
+ "108440": {
+  "N": "Chaise"
  },
  "108441": {
   "N": "Banc"
@@ -1436,8 +1598,14 @@
  "108575": {
   "N": "Journal poussiéreux"
  },
+ "108576": {
+  "N": "Œuf de silithide"
+ },
  "108589": {
   "N": "Téléporteur expérimental de première classe"
+ },
+ "108592": {
+  "N": "Cache de la Sentinelle écarlate"
  },
  "108602": {
   "N": "Cache forgé du monde"
@@ -1509,6 +1677,9 @@
   "N": "Sac à dos de Skif"
  },
  "1134104": {
+  "N": "Cache forgé du monde"
+ },
+ "1134867": {
   "N": "Cache forgé du monde"
  },
  "1134868": {
@@ -1694,7 +1865,19 @@
  "1310570": {
   "N": "Cache forgé du monde"
  },
+ "1324240": {
+  "N": "Cache forgé du monde"
+ },
+ "1324310": {
+  "N": "Cache forgé du monde"
+ },
+ "1324320": {
+  "N": "Cache forgé du monde"
+ },
  "1324350": {
+  "N": "Cache forgé du monde"
+ },
+ "1324730": {
   "N": "Cache forgé du monde"
  },
  "1325750": {
@@ -1707,6 +1890,9 @@
   "N": "Cache forgé du monde"
  },
  "1325870": {
+  "N": "Cache forgé du monde"
+ },
+ "1325960": {
   "N": "Cache forgé du monde"
  },
  "1325990": {
@@ -1752,6 +1938,9 @@
   "N": "Cache forgé du monde"
  },
  "1326480": {
+  "N": "Cache forgé du monde"
+ },
+ "1326490": {
   "N": "Cache forgé du monde"
  },
  "1326500": {
@@ -1935,6 +2124,12 @@
   "N": "Cache forgé du monde"
  },
  "1327090": {
+  "N": "Cache forgé du monde"
+ },
+ "1327130": {
+  "N": "Cache forgé du monde"
+ },
+ "1327150": {
   "N": "Cache forgé du monde"
  },
  "1327170": {
@@ -2299,6 +2494,9 @@
  },
  "17269": {
   "N": "Chaise en bois"
+ },
+ "173": {
+  "N": "Brasero à feu bleu Forge"
  },
  "174": {
   "N": "Enclume commune"
@@ -2774,6 +2972,9 @@
  "179567": {
   "N": "Rare hommage aux Gordok"
  },
+ "179568": {
+  "N": "Hommage épique à Gordok"
+ },
  "179726": {
   "N": "Salle des Champions"
  },
@@ -2884,6 +3085,9 @@
  },
  "180600": {
   "N": "Caisse de cristaux de mana instables"
+ },
+ "180671": {
+  "N": "Sac Démon de Xandivious"
  },
  "180707": {
   "N": "Feu d'artifice, Spectacle, Type 1, Rouge GROS"
@@ -4145,6 +4349,9 @@
  "184198": {
   "N": "Instance_Portal_Difficulty_0"
  },
+ "184201": {
+  "N": "Instance_Portal_Difficulty_0"
+ },
  "184206": {
   "N": "InstancePortal_01_Difficulty_0"
  },
@@ -4724,11 +4931,17 @@
  "200003": {
   "N": "Portail vers Hurlevent"
  },
+ "200005": {
+  "N": "Porte De Porung De Garde De Bood"
+ },
  "20001": {
   "N": "Orbe mystérieux"
  },
  "20002": {
   "N": "Orbe mystérieux"
+ },
+ "200020": {
+  "N": "Doodad_Hellfire_Ramparts_WindDoor01"
  },
  "200023": {
   "N": "Porte fantôme - BRD"
@@ -4853,6 +5066,9 @@
  "2100094": {
   "N": "Boulet de canon"
  },
+ "2100096": {
+  "N": "Potion mystérieuse"
+ },
  "210342": {
   "N": "Cristal glyphé"
  },
@@ -4936,6 +5152,30 @@
  },
  "2202000": {
   "N": "Enclume thermique"
+ },
+ "220360": {
+  "N": "Console de visualisation à distance"
+ },
+ "220361": {
+  "N": "Lanceur de feux d'artifice"
+ },
+ "220362": {
+  "N": "Fusée de feu d'artifice, type 1 bleue BIG"
+ },
+ "220363": {
+  "N": "Fusée de feu d'artifice, type 1 verte BIG"
+ },
+ "220364": {
+  "N": "Fusée de feu d'artifice, type 1 violet BIG"
+ },
+ "220365": {
+  "N": "Fusée de feu d'artifice, type 1 blanche GRANDE"
+ },
+ "220366": {
+  "N": "Fusée de feu d'artifice, type 1 jaune BIG"
+ },
+ "220367": {
+  "N": "Fusée de feu d'artifice, type 1 rouge BIG"
  },
  "220368": {
   "N": "Chaise"
@@ -5060,6 +5300,42 @@
  "220408": {
   "N": "Chaise"
  },
+ "220409": {
+  "N": "Chaise"
+ },
+ "220410": {
+  "N": "Chaise"
+ },
+ "220411": {
+  "N": "Chaise"
+ },
+ "220412": {
+  "N": "Chaise"
+ },
+ "220413": {
+  "N": "Chaise"
+ },
+ "220414": {
+  "N": "Chaise"
+ },
+ "220415": {
+  "N": "Chaise"
+ },
+ "220416": {
+  "N": "Chaise"
+ },
+ "220417": {
+  "N": "Chaise"
+ },
+ "220418": {
+  "N": "Chaise"
+ },
+ "220419": {
+  "N": "Chaise"
+ },
+ "220420": {
+  "N": "Chaise"
+ },
  "220421": {
   "N": "Chaise"
  },
@@ -5067,6 +5343,174 @@
   "N": "Chaise"
  },
  "220423": {
+  "N": "Chaise"
+ },
+ "220424": {
+  "N": "Chaise"
+ },
+ "220425": {
+  "N": "Chaise"
+ },
+ "220426": {
+  "N": "Chaise"
+ },
+ "220427": {
+  "N": "Chaise"
+ },
+ "220428": {
+  "N": "Chaise"
+ },
+ "220429": {
+  "N": "Chaise"
+ },
+ "220430": {
+  "N": "Chaise"
+ },
+ "220431": {
+  "N": "Chaise"
+ },
+ "220432": {
+  "N": "Chaise"
+ },
+ "220433": {
+  "N": "Chaise"
+ },
+ "220434": {
+  "N": "Chaise"
+ },
+ "220435": {
+  "N": "Chaise"
+ },
+ "220436": {
+  "N": "Chaise"
+ },
+ "220437": {
+  "N": "Chaise"
+ },
+ "220438": {
+  "N": "Chaise"
+ },
+ "220439": {
+  "N": "Chaise"
+ },
+ "220440": {
+  "N": "Chaise"
+ },
+ "220441": {
+  "N": "Chaise"
+ },
+ "220442": {
+  "N": "Chaise"
+ },
+ "220443": {
+  "N": "Chaise"
+ },
+ "220444": {
+  "N": "Chaise"
+ },
+ "220445": {
+  "N": "Chaise"
+ },
+ "220446": {
+  "N": "Chaise"
+ },
+ "220447": {
+  "N": "Chaise"
+ },
+ "220448": {
+  "N": "Chaise"
+ },
+ "220449": {
+  "N": "Chaise"
+ },
+ "220450": {
+  "N": "Chaise"
+ },
+ "220451": {
+  "N": "Chaise"
+ },
+ "220452": {
+  "N": "Chaise"
+ },
+ "220453": {
+  "N": "Chaise"
+ },
+ "220454": {
+  "N": "Chaise"
+ },
+ "220455": {
+  "N": "Chaise"
+ },
+ "220456": {
+  "N": "Chaise"
+ },
+ "220457": {
+  "N": "Chaise"
+ },
+ "220458": {
+  "N": "Chaise"
+ },
+ "220459": {
+  "N": "Chaise"
+ },
+ "220460": {
+  "N": "Chaise"
+ },
+ "220461": {
+  "N": "Chaise"
+ },
+ "220462": {
+  "N": "Chaise"
+ },
+ "220463": {
+  "N": "Chaise"
+ },
+ "220464": {
+  "N": "Chaise"
+ },
+ "220465": {
+  "N": "Chaise"
+ },
+ "220466": {
+  "N": "Chaise"
+ },
+ "220467": {
+  "N": "Chaise"
+ },
+ "220468": {
+  "N": "Chaise"
+ },
+ "220469": {
+  "N": "Chaise"
+ },
+ "220470": {
+  "N": "Chaise"
+ },
+ "220471": {
+  "N": "Chaise"
+ },
+ "220472": {
+  "N": "Chaise"
+ },
+ "220473": {
+  "N": "Chaise"
+ },
+ "220474": {
+  "N": "Chaise"
+ },
+ "220475": {
+  "N": "Chaise"
+ },
+ "220476": {
+  "N": "Chaise"
+ },
+ "220477": {
+  "N": "Chaise"
+ },
+ "220478": {
+  "N": "Chaise"
+ },
+ "220479": {
   "N": "Chaise"
  },
  "220480": {
@@ -5200,6 +5644,18 @@
  },
  "220523": {
   "N": "Chaise"
+ },
+ "220524": {
+  "N": "Orbe bleu"
+ },
+ "220525": {
+  "N": "Orbe rouge"
+ },
+ "220526": {
+  "N": "Baril de bière"
+ },
+ "220527": {
+  "N": "Distributeur automatique 9000+1"
  },
  "221": {
   "N": "Squelette enchaîné 03"
@@ -5440,6 +5896,12 @@
  },
  "2300365": {
   "N": "8hu_kultiras_floating_woodplank01"
+ },
+ "2300383": {
+  "N": "Fournitures abandonnées"
+ },
+ "2300384": {
+  "N": "Tentacule de Kraken"
  },
  "2300417": {
   "N": "Bière"
@@ -5702,8 +6164,14 @@
  "2300619": {
   "N": "Reconfigurateur atmosphérique personnel : Firmament"
  },
+ "2300620": {
+  "N": "Reconfigurateur atmosphérique personnel : Twilight"
+ },
  "2300623": {
   "N": "Reconfigurateur atmosphérique personnel : Empyrée"
+ },
+ "2300624": {
+  "N": "Reconfigurateur atmosphérique personnel : Core"
  },
  "2300629": {
   "N": "Podio Wonka Wonka"
@@ -6385,6 +6853,21 @@
  },
  "254032": {
   "N": "Lumière persistante"
+ },
+ "254033": {
+  "N": "Monticule de silithide"
+ },
+ "254034": {
+  "N": "Œuf de silithide"
+ },
+ "254035": {
+  "N": "Grand œuf de silithide"
+ },
+ "254036": {
+  "N": "Œuf de silithide"
+ },
+ "254037": {
+  "N": "Générateur d'œufs de silithide"
  },
  "254038": {
   "N": "Instance_Portal_Difficulty_1"
@@ -8825,8 +9308,14 @@
  "3253780": {
   "N": "Chambre droite - G - Nettoyer - Pile d'oreillers 03"
  },
+ "3253783": {
+  "N": "Chambre Droite - B - Sale - Décombres de Verre 01"
+ },
  "3253784": {
   "N": "Chambre Droite - F - Sale - Web 02"
+ },
+ "3253840": {
+  "N": "Chambre droite - J - Sale - Urne détruite"
  },
  "3253841": {
   "N": "Chambre Droite - J - Sale - Ruine 01"
@@ -9178,6 +9667,9 @@
  },
  "3300079": {
   "N": "Sceau mystérieux du gardien"
+ },
+ "330176": {
+  "N": "Glaçon des neiges"
  },
  "330177": {
   "N": "Glaçon des neiges"
@@ -10127,6 +10619,9 @@
  "40301": {
   "N": "Feu de camp"
  },
+ "408261": {
+  "N": "Totem Zandalar"
+ },
  "409": {
   "N": "Étoile de mer écaille d'ange"
  },
@@ -10354,6 +10849,9 @@
  },
  "507792": {
   "N": "Bannière d'allégeance : Khadgar Un"
+ },
+ "507793": {
+  "N": "Bannière d'allégeance : Gangre Un"
  },
  "507796": {
   "N": "Bannière d'allégeance : fantôme"
@@ -11588,6 +12086,9 @@
  "518053": {
   "N": "Caisse délabrée"
  },
+ "518054": {
+  "N": "Relique ancienne"
+ },
  "518055": {
   "N": "Caisse supplémentaire"
  },
@@ -11596,6 +12097,9 @@
  },
  "518063": {
   "N": "Ogre Feu Poker"
+ },
+ "518079": {
+  "N": "Pierre druidique"
  },
  "518081": {
   "N": "Débris d'ogres suspendus"
@@ -12076,6 +12580,15 @@
  },
  "523544": {
   "N": "Accessoire de cage"
+ },
+ "52587": {
+  "N": "Caisse endommagée"
+ },
+ "532803": {
+  "N": "(NO_ITEM_TEMPLATE) COMMON_ASC_RPG_Axe_1H_Hatchet_D_01___Axe_1H_Hatchet_D_01"
+ },
+ "554523": {
+  "N": "Fleur de Guri"
  },
  "588525": {
   "N": "Particules Arcanes Dimensionnelles"
@@ -13696,6 +14209,9 @@
  },
  "9000118": {
   "N": "Fût ancestral"
+ },
+ "9000119": {
+  "N": "Paviser"
  },
  "90002": {
   "N": "Arbre magique mystérieux"
