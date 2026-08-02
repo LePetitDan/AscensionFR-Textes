@@ -1,0 +1,35 @@
+# ============================================================
+#  Ce dépôt ne contient QUE des textes écrits ou relus par des
+#  humains. Tout ce qui est FABRIQUÉ reste dehors : le publier
+#  créerait des conflits de fusion sur des fichiers que
+#  personne n'édite.
+# ============================================================
+
+# --- Sauvegardes de la chaîne (git EST déjà l'historique) ---
+*_avant_*.json
+*.bak
+
+# --- Stores RECONSTRUITS À NEUF par la chaîne ---------------
+# Une correction écrite dans ces fichiers serait effacée sans un
+# mot au passage suivant. L'interface se corrige en amont, dans
+# traductions/gisement_brut.json — voir LISEZMOI.md.
+traductions/interface_maison.json
+traductions/sorts_references.json
+traductions/emotes.json
+traductions/interieurs.json
+traductions/taxinodes.json
+
+# --- Sorties de la chaîne, jamais des sources ---------------
+*.lua
+*.exe
+*.zip
+a_traduire/
+sources/
+extraits/
+rapports/
+
+# --- Habituels ---
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

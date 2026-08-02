@@ -1,0 +1,20 @@
+# AUCUNE CONVERSION DE FIN DE LIGNE, JAMAIS.
+#
+# Pourquoi c'est ici dès le premier commit. Git est configuré sur cette
+# machine avec `core.autocrlf = true` (réglage SYSTÈME, pas un choix du
+# projet) : il convertirait CRLF -> LF à l'enregistrement et LF -> CRLF à
+# l'extraction. Sur un dépôt de CODE c'est commode ; sur un dépôt de DONNÉES
+# c'est un piège :
+#
+#   - les JSON de `traductions/` sont écrits en CRLF par la chaîne de
+#     traduction (Python, mode texte, sous Windows) ;
+#   - les .md sont écrits en LF ;
+#   - avec la conversion, un clone rendrait les .md en CRLF et ils ne
+#     seraient plus identiques à leur source. Un contributeur verrait alors
+#     des différences fantômes sur des fichiers qu'il n'a pas touchés.
+#
+# `-text` désactive toute conversion, dans les deux sens, sur toutes les
+# plateformes. Ce qui est enregistré est exactement ce qui est extrait — un
+# clone est octet pour octet la source. Le `diff` continue de fonctionner
+# normalement (ce n'est pas `binary`, qui lui le désactiverait).
+* -text
