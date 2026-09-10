@@ -1,3 +1,14 @@
+> ### 📦 Projet terminé
+>
+> Les royaumes de **Project Ascension** ont fermé le 5 septembre 2026.
+> Ce dépôt n'est plus maintenu et ne recevra pas de correctifs.
+>
+> L'ensemble du projet — traductions, add-on, outils et journal de
+> bord — est rassemblé dans
+> **[AscensionFR-Archive](https://github.com/LePetitDan/AscensionFR-Archive)**.
+
+---
+
 # AscensionFR — les textes français
 
 Les traductions françaises du serveur privé **Ascension** (World of Warcraft
