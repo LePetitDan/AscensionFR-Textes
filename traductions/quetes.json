@@ -1917,6 +1917,11 @@
   "O": "Escortez Aile-du-ciel et allez voir Rilak le Racheté à Shattrath.",
   "T": "Aile du ciel"
  },
+ "1096": {
+  "A": "Retournez voir Ziz Fizzik à la Combe des Cisailles, dans les Serres-Rocheuses.",
+  "O": "Apporter le Bras mécanique de Gerenzo Siffleclef à Ziz Fizzik dans les Serres-Rocheuses.",
+  "T": "Gerenzo Siffleclef"
+ },
  "10966": {
   "A": "Retournez voir Miss Hérikorde, directrice de l'orphelinat à Shattrath.",
   "D": "Mince alors ! Je crois que c'est l'heure de rentrer à l'orphelinat de Shattrath.$B$BJe me suis tellement amusée. Vous êtes la personne la plus chouette de tout l'univers, $n ! Vous êtes $gmon grand frère:ma grande sœur; maintenant !$B$B<Les yeux de Dornaa commencent à se remplir de larmes.>$B$BVous allez tellement me manquer !!! Quand je serai grande, je veux être exactement comme vous !!!",
@@ -2066,6 +2071,10 @@
   "D": "Ça vous intéresse d’apprendre des compétences brûlantes ?$B$BJe ne sais pas si vous y arriverez un jour aussi bien que moi, mais vous parviendrez certainement à en tirer un truc ou deux si vous êtes $gattentif:attentive;. Parlez à un maître cracheur de feu dans n’importe quelle capitale de l’Alliance. Il vous aidera.",
   "O": "Parlez à un Maître cracheur de feu dans n'importe quelle capitale de l'Alliance.",
   "T": "Jouer avec le feu"
+ },
+ "1189": {
+  "O": "Rapporter le Lance-hydroglycérine modifié à Razzeric, dans les Salines, aux Mille pointes.",
+  "T": "La sécurité d'abord"
  },
  "1227": {
   "A": "Retournez au tableau d’appel.",
@@ -2852,6 +2861,11 @@
  "151": {
   "P": "Le vieux Blanchy est à sa dernière étape. As-tu trouvé de l'avoine pour elle ?",
   "R": "Merci beaucoup, $n! Le pauvre vieux Blanchy sera si heureux !"
+ },
+ "1516": {
+  "A": "Retournez voir Canaga Hucheterre dans la Vallée des Épreuves, en Durotar.",
+  "O": "Apporter 2 Sabots de traqueur gangrené à Canaga Hucheterre dans la Vallée des Épreuves.",
+  "T": "L'appel de la terre"
  },
  "1519": {
   "A": "Retournez voir la Prophétesse Plume-de-corbeau à la Mesa de Nuage rouge, en Mulgore.",
@@ -3984,6 +3998,11 @@
   "D": "En récupérant mon tour de cou et en battant Surena, vous avez prouvé que vous êtes au moins aussi capable qu'elle.\n\nCela dit, je peux dire que vous avez cruellement besoin de formation. Vous pouvez gérer les flux de magie, oui, mais être un démoniste, c'est bien plus que cela.\n\nJe vais vous montrer comment commander un marcheur du Vide, mais avant de pouvoir le faire, vous devez en appeler un dans un cercle d'invocation et le maîtriser en utilisant toutes les armes (physiques et magiques) dont vous disposez. Utilisez la magie de ce tour de cou dans le cercle d'invocation ci-dessous.",
   "O": "À l’aide du tour de cou en pierre de sang, invoquez et soumettez un marcheur du vide, puis rapportez le tour de cou en pierre de sang à Gakin le lieur des ténèbres à Hurlevent.",
   "T": "La reliure"
+ },
+ "170": {
+  "A": "Retournez voir Balir Martel-de-givre dans la Vallée des Frigères, en Dun Morogh.",
+  "O": "Balir Martel-de-givre veut que vous tuiez 6 Troggs mâcherocs et 6 Troggs mâcherocs mastocs.",
+  "T": "Une nouvelle menace"
  },
  "17000": {
   "A": "Retournez voir Pa Maclure aux vignobles Maclure.",
@@ -5989,6 +6008,11 @@
   "O": "Récupérez des artefacts Ethereum sur Staging Grounds et Manaforge Ultris à Netherstorm.",
   "T": "Connaissance d'Ethereum"
  },
+ "179": {
+  "A": "Retournez voir Sten Rudebras dans la Vallée des Frigères, en Dun Morogh.",
+  "O": "Sten Rudebras voudrait 8 morceaux de Viande de loup coriace.",
+  "T": "Tailleur chez les nains"
+ },
  "17900": {
   "A": "Retournez au tableau d’appel.",
   "D": "Héros, les restes d'artefacts magiques jonchent Raz-de-Néant, imprégnés d'énergies arcaniques. Cristaux, pierres runiques, textes magiques : s'ils sont rassemblés, nos alliés pourraient les étudier pour libérer leur pouvoir et procéder à une ingénierie inverse pour de bon. Je vous demande de vous y aventurer, de combattre ses habitants tordus et de récupérer les artefacts magiques que vous pouvez trouver. Amenez-les-moi afin que leurs secrets puissent renforcer notre cause.",
@@ -7435,6 +7459,19 @@
  },
  "2041": {
   "R": "Apportez-vous des nouvelles du commandement central ?"
+ },
+ "208": {
+  "A": "Retournez voir Hemet Nesingwary Jr. à l'Expédition de Nesingwary, en Strangleronce septentrionale.",
+  "O": "Chassez le Roi Bangalash, le grand tigre blanc, et prenez sa tête.",
+  "T": "La chasse au gros gibier"
+ },
+ "2161": {
+  "O": "Apportez le Fardeau d'Ukor à l'aubergiste Grosk à Tranchecolline.",
+  "T": "Un fardeau de péon"
+ },
+ "233": {
+  "O": "Apporter la pile de lettres à Talin Œil-perçant dans la Vallée des Frigères.",
+  "T": "La distribution du courrier de la Vallée des Frigères"
  },
  "24915": {
   "T": "Réunir les Mograine"
@@ -8986,6 +9023,10 @@
  "263": {
   "R": "Bravo Danlemain !  Vous avez fait preuve d'un courage extraordinaire sur le champ de bataille.  Notre guerre contre les Troggs sera gagnée grâce à des efforts comme les vôtres.  Vous avez bien servi le roi Magni.\n\nSi vous pensez être parfaitement adapté à ce genre d'aventure, je vous suggère de parler à l'alpiniste Gravelgaw.  Le capitaine l'a assigné à une patrouille difficile pour laquelle, je suis sûr, il aura besoin d'aide.  Vérifiez auprès de Gravelgaw juste à l’intérieur de la tour."
  },
+ "2662": {
+  "O": "Retourner voir Marin Brouillecaboche une fois qu'il aura créé son élixir.",
+  "T": "Elixir Brouillecaboche"
+ },
  "267": {
   "P": "Avez-vous 8 dents de pierre Trogg à me montrer ?  Sinon, il y a encore du travail à faire, Danlemain.",
   "R": "Je suis assez impressionné, Danlemain.  Vous avez rendu un grand service à la race naine en défendant nos terres.  Le roi Magni Barbe-de-Bronze lui-même serait fier !"
@@ -9922,8 +9963,11 @@
   "T": "Trahi"
  },
  "354": {
+  "A": "Retournez voir Coleman Farthing à Brill, dans les Clairières de Tirisfal.",
+  "O": "Rapporter les restes de Gregor, de Nissa et de Thurman à Coleman Farthing, à Brill.",
   "P": "Avez-vous les restes des Agamands ? Ces bêtes maudites sont-elles enfin détruites ?",
-  "R": "La vengeance a un goût doux, tu ne trouves pas ? Lorsque vous avez détruit les Agamands, avez-vous détecté un soupçon de libre arbitre en eux ? Je l'espère. J'espère qu'ils connaissaient la peur avant de sombrer dans l'oubli.\n\nC'est un espoir insensé, je sais. Mais c’est néanmoins un espoir que je nourris."
+  "R": "La vengeance a un goût doux, tu ne trouves pas ? Lorsque vous avez détruit les Agamands, avez-vous détecté un soupçon de libre arbitre en eux ? Je l'espère. J'espère qu'ils connaissaient la peur avant de sombrer dans l'oubli.\n\nC'est un espoir insensé, je sais. Mais c’est néanmoins un espoir que je nourris.",
+  "T": "Morts dans la Famille"
  },
  "354000": {
   "A": "Retournez au tableau des annonces.",
@@ -10124,25 +10168,48 @@
   "T": "Matériaux élémentaires"
  },
  "355": {
-  "R": "Coleman parle bien de vous, $n, racontant vos incursions réussies aux Moulins Agamand.\n\nLes Réprouvés ont encore une fois besoin de vos talents..."
+  "O": "Parler au magistrat Sevren à Brill.",
+  "R": "Coleman parle bien de vous, $n, racontant vos incursions réussies aux Moulins Agamand.\n\nLes Réprouvés ont encore une fois besoin de vos talents...",
+  "T": "Parler à Sevren"
+ },
+ "356": {
+  "A": "Retournez voir le Grand exécuteur Derrington à Brill, dans les Clairières de Tirisfal.",
+  "O": "Tuer 8 Horreurs sanguinolentes et 8 Esprits vagabonds.",
+  "T": "Patrouille d'arrière-garde"
  },
  "358": {
+  "A": "Retournez voir le Magistrat Sevren à Brill, dans les Clairières de Tirisfal.",
   "P": "Votre tâche est-elle terminée ?  Avez-vous détruit ces choses de chien et les avez-vous vidées de leur ichor ?",
-  "R": "C'est fait avec expertise, $n. Le Fléau se trompe s'il pense pouvoir utiliser ces cadavres contre nous, et le liquide que vous avez récupéré auprès des esclaves Rot Hide sera étudié par nos apothicaires. Il y a peut-être des secrets que nous pouvons utiliser contre eux.\n\nComme je l'ai dit, bravo. Mais notre lutte continue et le conflit vous offrira sûrement davantage de chances de prouver votre valeur aux Réprouvés."
+  "R": "C'est fait avec expertise, $n. Le Fléau se trompe s'il pense pouvoir utiliser ces cadavres contre nous, et le liquide que vous avez récupéré auprès des esclaves Rot Hide sera étudié par nos apothicaires. Il y a peut-être des secrets que nous pouvons utiliser contre eux.\n\nComme je l'ai dit, bravo. Mais notre lutte continue et le conflit vous offrira sûrement davantage de chances de prouver votre valeur aux Réprouvés.",
+  "T": "Les profanateurs"
  },
  "359": {
-  "R": "Le magistrat Sevren veut un rapport ? Très bien : les défenseurs du Rempart tiennent à distance la majorité du Fléau, mais certains passent parfois à travers.\n\nNous avons observé une activité sporadique du Fléau à l'est de cette station, avec une concentration autour de la ferme Balnir."
+  "O": "Parler au Nécrogarde Linnea.",
+  "R": "Le magistrat Sevren veut un rapport ? Très bien : les défenseurs du Rempart tiennent à distance la majorité du Fléau, mais certains passent parfois à travers.\n\nNous avons observé une activité sporadique du Fléau à l'est de cette station, avec une concentration autour de la ferme Balnir.",
+  "T": "En mission pour les Réprouvés"
  },
  "360": {
-  "R": "Il est troublant d'entendre parler du Fléau passer devant le Rempart.  Le roi-liche et ses serviteurs ne cessent de lancer leurs assauts.\n\nMais nous ne céderons pas. Il ne nous reprendra plus !"
+  "O": "Retourner voir le Magistrat Sevren à Brill.",
+  "R": "Il est troublant d'entendre parler du Fléau passer devant le Rempart.  Le roi-liche et ses serviteurs ne cessent de lancer leurs assauts.\n\nMais nous ne céderons pas. Il ne nous reprendra plus !",
+  "T": "Retourner voir le Magistrat"
  },
  "361": {
+  "D": "Ceci est une lettre écrite par Thurman, l'aîné des fils de Gregor Agamand. Elle est adressée à Yvette Farthing, bien qu'il semble qu'elle n'ait pas atteint sa destinataire…",
+  "O": "Trouver Yvette Farthing. Lui donner la lettre de Thurman Agamand.",
   "P": "Oui?",
-  "R": "Oh... mon pauvre Thurman ! Je l'ai supplié de laisser Agamand Mills avec moi et mon père, mais sa loyauté envers sa famille était trop forte ! Et je le savais ! Je savais juste que Brand lui voulait du mal !! Oh, maudis cette Peste et ce Fléau !\n\n<Le visage d'Yvette se lisse alors et se refroidit.>\n\nMais les regrets sont pour les faibles. En tant qu’Abandonné, j’ai de nouveaux objectifs et l’amour n’en fait pas partie. Je vous remercierais d'avoir remis cette lettre, car je me demandais ce qui était arrivé à mon amour passé.\n\nMais cette vie est finie. Pour toujours."
+  "R": "Oh... mon pauvre Thurman ! Je l'ai supplié de laisser Agamand Mills avec moi et mon père, mais sa loyauté envers sa famille était trop forte ! Et je le savais ! Je savais juste que Brand lui voulait du mal !! Oh, maudis cette Peste et ce Fléau !\n\n<Le visage d'Yvette se lisse alors et se refroidit.>\n\nMais les regrets sont pour les faibles. En tant qu’Abandonné, j’ai de nouveaux objectifs et l’amour n’en fait pas partie. Je vous remercierais d'avoir remis cette lettre, car je me demandais ce qui était arrivé à mon amour passé.\n\nMais cette vie est finie. Pour toujours.",
+  "T": "Une lettre perdue"
  },
  "362": {
+  "A": "Retournez voir Coleman Farthing à Brill, dans les Clairières de Tirisfal.",
+  "O": "Tuer Devlin Agamand et ramener ses restes à Coleman Farthing à Brill.",
   "P": "Avez-vous trouvé Devlin ?",
-  "R": "Merci. Les os de Devlin reposeront bien sur mon manteau.\n\nSi mon cœur froid peut trouver de la chaleur, c'est en sachant que les Agamands sont détruits. Ils ont laissé tomber ma famille et moi lorsque la peste est arrivée – maintenant je jure que je vais briser leurs restes sous mon talon !"
+  "R": "Merci. Les os de Devlin reposeront bien sur mon manteau.\n\nSi mon cœur froid peut trouver de la chaleur, c'est en sachant que les Agamands sont détruits. Ils ont laissé tomber ma famille et moi lorsque la peste est arrivée – maintenant je jure que je vais briser leurs restes sous mon talon !",
+  "T": "Les moulins hantés"
+ },
+ "3628": {
+  "A": "Retournez voir le Héros de la Horde tombé au combat au Croisement de Lance-brisée, au Marais des Chagrins.",
+  "T": "Son nom est Rakh’likh"
  },
  "363": {
   "A": "Parlez au prêtre de l'ombre Sarvis, au Glas.",
@@ -10150,16 +10217,76 @@
   "O": "Vainquez des chauves-souris crépusculaires sur la route du Glas.",
   "T": "Réveil brutal"
  },
+ "364": {
+  "A": "Retournez voir le Prêtre des ombres Sarvis au Glas, dans les Clairières de Tirisfal.",
+  "O": "Tuez 5 Zombies décérébrés et 5 Goules déshéritées.",
+  "T": "Les Sans-esprit"
+ },
+ "365": {
+  "A": "Retournez voir l'Apothicaire Johaan à Brill, dans les Clairières de Tirisfal.",
+  "O": "Volez 10 Potirons dans la ferme à l'ouest, juste au nord du Glas, et apportez-les à l'Apothicaire Johaan à Brill.",
+  "T": "Les champs du Chagrin"
+ },
+ "367": {
+  "A": "Retournez voir l'Apothicaire Johaan à Brill, dans les Clairières de Tirisfal.",
+  "O": "Récupérez 5 fioles de Sang de sombredogues pour l'Apothicaire Johaan de la ville de Brill.",
+  "T": "Une peste nouvelle"
+ },
+ "368": {
+  "A": "Retournez voir l'Apothicaire Johaan à Brill, dans les Clairières de Tirisfal.",
+  "O": "L'Apothicaire Johaan de la ville de Brill a besoin de 5 Ecailles d'Aileron noir prises sur les murlocs des Clairières de Tirisfal.",
+  "T": "Une peste nouvelle"
+ },
+ "369": {
+  "A": "Retournez voir l'Apothicaire Johaan à Brill, dans les Clairières de Tirisfal.",
+  "O": "L'Apothicaire Johaan de la ville de Brill désire que vous lui rameniez 4 échantillons de Venin de Tisse-nuit vicieuse.",
+  "T": "Une peste nouvelle"
+ },
+ "370": {
+  "A": "Retournez voir l'Exécuteur Zygand à Brill, dans les Clairières de Tirisfal.",
+  "O": "L'Exécuteur Zygand, à Brill, veut que vous tuiez le Capitaine Perrine, ainsi que 3 Zélotes écarlates et 3 Missionnaires écarlates.",
+  "T": "En guerre avec la Croisade écarlate"
+ },
  "3721": {
   "T": "Un OOX rien que pour vous"
  },
  "374": {
+  "A": "Retournez voir le Nécrogarde Burgess à Brill, dans les Clairières de Tirisfal.",
+  "O": "Apportez 10 Anneaux de la Croisade écarlate au Nécrogarde Burgess, à Brill.",
   "P": "Avez-vous déjà récupéré 10 anneaux d'insignes écarlates, chevalier de Xoroth ?",
-  "R": "Varimathras serait fier.  Vous servez bien vos dirigeants, chevalier de Xoroth."
+  "R": "Varimathras serait fier.  Vous servez bien vos dirigeants, chevalier de Xoroth.",
+  "T": "Preuves de la mort"
  },
  "375": {
+  "A": "Retournez voir Gretchen Dedmar à Brill, dans les Clairières de Tirisfal.",
+  "O": "Rapportez 5 Peaux de chauve-souris de la pénombre et une Bobine de fil grossier à Gretchen Dedmar, à Brill.",
   "P": "Avez-vous déjà cinq peaux de chauve-souris crépusculaire et du fil grossier, $n ?",
-  "R": "J'apprécie vos efforts, $n. Puisse Slyvanas reconnaître un jour votre courage. . . ."
+  "R": "J'apprécie vos efforts, $n. Puisse Slyvanas reconnaître un jour votre courage. . . .",
+  "T": "Le frisson de la mort"
+ },
+ "376": {
+  "A": "Retournez voir la Novice Elreth au Glas, dans les Clairières de Tirisfal.",
+  "O": "Récupérez 4 Pattes de charognard et de 4 Ailes de chauve-souris de la pénombre.",
+  "T": "Les Maudits"
+ },
+ "380": {
+  "A": "Retournez voir l'Exécuteur Arren au Glas, dans les Clairières de Tirisfal.",
+  "O": "L’Exécuteur Arren veut que vous tuiez 8 Jeunes Tisse-nuit et 5 Araignées Tisse-nuit.",
+  "T": "Les grottes des Tisse-nuit"
+ },
+ "381": {
+  "A": "Retournez voir l'Exécuteur Arren au Glas, dans les Clairières de Tirisfal.",
+  "O": "Apporter à l’Exécuteur Arren 12 Bracelets écarlates, que vous trouverez sur des Convertis écarlates et des Initiés écarlates.",
+  "T": "La Croisade écarlate"
+ },
+ "382": {
+  "A": "Retournez voir l'Exécuteur Arren au Glas, dans les Clairières de Tirisfal.",
+  "O": "Tuez Meven Korgal, le messager, au Camp de la Croisade, puis rapportez toutes les informations trouvées à l'Exécuteur Arren.",
+  "T": "Le messager rouge"
+ },
+ "383": {
+  "O": "Livrer les Documents de la Croisade écarlate à l'Exécuteur Zygand à Brill.",
+  "T": "Informations décisives"
  },
  "3861": {
   "A": "Retournez voir le Poulet.",
@@ -10167,26 +10294,50 @@
   "O": "Trouver de la nourriture spéciale pour poulet et l'apporter à la poule que vous voulez aider. Lorsque vous l'aurez trouvée, encouragez-la (/acclame) avant d'essayer de lui donner la Nourriture spéciale pour poulet.",
   "T": "COT-COT-CODEC !"
  },
+ "3901": {
+  "A": "Retournez voir le Prêtre des ombres Sarvis au Glas, dans les Clairières de Tirisfal.",
+  "O": "Tuez 8 Squelettes cliquethorax.",
+  "T": "Faites cliqueter les thorax !"
+ },
+ "3902": {
+  "A": "Retournez voir le Nécrogarde Saltain au Glas, dans les Clairières de Tirisfal.",
+  "O": "Fouiller Le Glas et ses alentours pour trouver 6 caisses de Fournitures de récupération, et les ramener au Nécrogarde Saltain.",
+  "T": "La chasse aux trésors"
+ },
  "392": {
   "D": "Pendant les premières années de son emprisonnement, Thredd n'a reçu aucun visiteur. Je pensais qu'il n'était plus utile à la Confrérie Défias, alors ils l'ont abandonné.$b$bQuoi qu'il en soit, il y a quelques mois, tout a changé ; il a commencé à recevoir des visites régulières... Une à deux fois par semaine. C'était un type étrange, calme. J'avais des soupçons, mais tous ses papiers étaient en règle.$b$bLe nom sur les papiers était Maelik, voici sa description. Je ne pense pas qu'il va revenir voir Thredd.",
   "O": "Apportez la description du visiteur de Thredd à Baros Alexston à Hurlevent.",
   "T": "Un visiteur curieux"
  },
  "398": {
+  "A": "Retournez voir l'Exécuteur Zygand à Brill, dans les Clairières de Tirisfal.",
+  "O": "Tuer Œil-de-ver et rapporter ses griffes à l'Exécuteur Zygand, à Brill, pour toucher la récompense.",
   "P": "Oui?",
-  "R": "Les actes ignobles de Maggot Eye ont enfin été vengés. Peut-être que vos actes de bravoure enverront un message clair à ceux qui souhaitent nuire à notre peuple. Au nom de la ville de Brill je vous remercie, $n."
+  "R": "Les actes ignobles de Maggot Eye ont enfin été vengés. Peut-être que vos actes de bravoure enverront un message clair à ceux qui souhaitent nuire à notre peuple. Au nom de la ville de Brill je vous remercie, $n.",
+  "T": "On recherche : Œil-de-ver"
  },
  "404": {
+  "A": "Retournez voir le Nécrogarde Dillinger à Brill, dans les Clairières de Tirisfal.",
+  "O": "Rapporter 7 Griffes putrides au Nécrogarde Dillinger à Brill.",
   "P": "Avez-vous accompli la tâche dont je vous ai chargé ?  Avez-vous ces griffes putrides ?",
-  "R": "Bien joué. Je regrette de ne pas avoir été là pour vous voir réduire ces morts-vivants en bouillie pourrie !"
+  "R": "Bien joué. Je regrette de ne pas avoir été là pour vous voir réduire ces morts-vivants en bouillie pourrie !",
+  "T": "Une tâche putride"
  },
  "405": {
+  "O": "Présenter les ordres de Sevren à Bethor Glacéclat à Fossoyeuse.",
   "P": "Salutations. Soit vous ne savez pas qui je suis, soit vos affaires avec moi sont urgentes.\n\nParce que si rien de tout cela n'était vrai, alors vous ne seriez pas assez stupide pour me déranger...",
-  "R": "Ah, vous êtes l'agent envoyé par le magistrat Sevren. Alors oui, vos affaires avec moi sont cruciales.\n\nJ'espère que Sevren a trouvé quelqu'un qui convient à ma tâche... mais nous verrons."
+  "R": "Ah, vous êtes l'agent envoyé par le magistrat Sevren. Alors oui, vos affaires avec moi sont cruciales.\n\nJ'espère que Sevren a trouvé quelqu'un qui convient à ma tâche... mais nous verrons.",
+  "T": "La liche prodigue"
+ },
+ "407": {
+  "O": "Donner le Potiron arrosé au Zélote écarlate capturé qui est gardé dans le cellier de la taverne des Pendus.",
+  "T": "Les champs du Chagrin"
  },
  "408": {
+  "A": "Retournez voir le Magistrat Sevren à Brill, dans les Clairières de Tirisfal.",
   "P": "Le temps n'est pas un luxe que nous avons, $n. Au fil des heures qui passent, l'emprise du Fléau sur les Clairières de Tirisfal se renforce.",
-  "R": "Vos actions ont porté un coup décisif au Fléau. Et votre victoire ne passera pas inaperçue, ni auprès des Réprouvés, ni auprès de nos ennemis.\n\nContinuez la lutte comme nous le faisons tous, $n, et un jour nous chasserons le roi-liche lui-même d'Azeroth !"
+  "R": "Vos actions ont porté un coup décisif au Fléau. Et votre victoire ne passera pas inaperçue, ni auprès des Réprouvés, ni auprès de nos ennemis.\n\nContinuez la lutte comme nous le faisons tous, $n, et un jour nous chasserons le roi-liche lui-même d'Azeroth !",
+  "T": "La crypte familiale"
  },
  "412001": {
   "A": "Retournez au tableau des annonces.",
@@ -10260,17 +10411,28 @@
   "T": "Hero Architect : Parchemin de désapprentissage - (Répétable)"
  },
  "426": {
+  "A": "Retournez voir le Nécrogarde Dillinger à Brill, dans les Clairières de Tirisfal.",
+  "O": "Rassemblez 5 Côtes ébréchées et 3 Crânes noircis et rapportez-les au Nécrogarde Dillinger à Brill.",
   "P": "Nos combats contre le Fléau continuent, $n. Faites votre part et rejetez ces morts-vivants maudits et stupides dans les Maleterres !",
-  "R": "Vos efforts dans la guerre se font sentir parmi nous, $n. Je ne vous remercierai pas d'avoir fait le nécessaire, mais les Deathguards de Tirisfal se souviendront de votre nom."
+  "R": "Vos efforts dans la guerre se font sentir parmi nous, $n. Je ne vous remercierai pas d'avoir fait le nécessaire, mais les Deathguards de Tirisfal se souviendront de votre nom.",
+  "T": "La chute des moulins"
  },
  "427": {
+  "A": "Retournez voir l'Exécuteur Zygand à Brill, dans les Clairières de Tirisfal.",
+  "O": "L'Exécuteur Zygand, à Brill, veut que vous tuiez 10 Guerriers écarlates.",
   "P": "Je vois que vous êtes de retour mais votre tâche n'est pas terminée. Peut-être êtes-vous à l'aise avec le fait que de simples humains interfèrent avec le plan de la Dame noire ? Ou peut-être pourriez-vous répondre à l'appel du devoir et tuer le capitaine Vachon et sa bande de frères écarlates !",
-  "R": "Très excellent, Chevalier de Xoroth. Votre maîtrise de l'art du combat est indéniable."
+  "R": "Très excellent, Chevalier de Xoroth. Votre maîtrise de l'art du combat est indéniable.",
+  "T": "En guerre avec la Croisade écarlate"
  },
  "4298": {
   "D": "Ouah, c'était bien plus prêt que je ne le pensais...",
   "O": "Parler à Agnar Domptebêtes dans les Hinterlands.",
   "T": "L'amour d'un parent"
+ },
+ "4402": {
+  "A": "Retournez voir Galgar dans la Vallée des Épreuves, en Durotar.",
+  "O": "Apportez à Galgar 6 Pommes de cactus. Il vous a précisé qu'elles se trouvaient souvent à côté des cactus.",
+  "T": "Surprise aux pommes de cactus de Galgar"
  },
  "4420430": {
   "A": "Parlez au formateur d’équitation itinérant.",
@@ -10392,6 +10554,10 @@
   ],
   "T": "Chemin vers l'Ascension : Cavalier novice"
  },
+ "445": {
+  "O": "Apporter les découvertes de l'apothicaire Holland à l'Apothicaire Renferrel dans la forêt des Pins-Argentés.",
+  "T": "Livraison dans la forêt des Pins-Argentés"
+ },
  "4485": {
   "D": "Salut, $n. Je vois que votre concentration et votre foi restent forts.$B$BIl faut maintenant que vous parliez à Duthorian Rall, à Hurlevent. Vous ne connaissez pas tout et je sens que le temps est venu pour un nouvel apprentissage.$B$BVous le trouverez dans la Cathédrale de la Lumière. Prenez ces leçons très au sérieux, $n. Vous avez atteint votre niveau actuel grâce à votre humilité et votre travail acharné, ne nous décevez pas en devenant arrogant.$B$BBonne chance.",
   "O": "Parler à Duthorian Rall, à Hurlevent.",
@@ -10420,7 +10586,8 @@
   "T": "Sabres corrompus"
  },
  "4641": {
-  "R": "Une autre recrue de Kaltunk, hein ?\n\nNous nous trouvons dans une triste situation si c’est le meilleur que la Horde puisse produire. Peu importe. Au moment où nous penserons que vous serez prêt à quitter la Vallée, vous serez un fier mage de sang de la Horde."
+  "R": "Une autre recrue de Kaltunk, hein ?\n\nNous nous trouvons dans une triste situation si c’est le meilleur que la Horde puisse produire. Peu importe. Au moment où nous penserons que vous serez prêt à quitter la Vallée, vous serez un fier mage de sang de la Horde.",
+  "T": "Votre place en ce monde"
  },
  "4729": {
   "A": "Retournez voir Kibler à la Corniche des Flammes, dans les Steppes Ardentes.",
@@ -11127,9 +11294,21 @@
   "O": "Escortez Kerlonian Evershade vers Orneval.",
   "T": "Le dormeur s'est réveillé"
  },
+ "5441": {
+  "A": "Retournez voir le Contremaître Thazz'ril en Durotar.",
+  "O": "Utiliser la Masse du contremaître sur les Péons fainéants, lorsqu’ils sont en train de dormir. Réveiller 5 Péons, puis rapporter la Masse du contremaître au Contremaître Thazz'ril, dans la Vallée des Épreuves.",
+  "T": "Les péons paresseux"
+ },
+ "5481": {
+  "A": "Retournez voir l'Apprenti apothicaire Holland à Brill, dans les Clairières de Tirisfal.",
+  "O": "Récolter 3 Herbes des ténèbres et les apporter à l’Apprenti Apothicaire Holland au Cimetière de Brill.",
+  "T": "La tâche de Gordo"
+ },
  "5482": {
+  "A": "Retournez voir l'Apprenti apothicaire Holland à Brill, dans les Clairières de Tirisfal.",
   "P": "Il vaudrait mieux que ce soit bon. J'espère que vous avez toute l'herbe fatale dont j'ai besoin ?",
-  "R": "Ah, ma mauvaise herbe. Excellent!\n\n<L'apothicaire junior Holland se frotte les mains avec avidité>\n\nCeux-ci seront très utiles. Vous m'avez rendu, euh, la Dame, un beau service aujourd'hui $n. Comme promis, voici la récompense que vous méritez."
+  "R": "Ah, ma mauvaise herbe. Excellent!\n\n<L'apothicaire junior Holland se frotte les mains avec avidité>\n\nCeux-ci seront très utiles. Vous m'avez rendu, euh, la Dame, un beau service aujourd'hui $n. Comme promis, voici la récompense que vous méritez.",
+  "T": "Herbe maléfique"
  },
  "550": {
   "A": "Retournez voir Varimathras à Fossoyeuse.",
@@ -12143,6 +12322,17 @@
   "P": "Que puis-je faire pour vous, monsieur ?",
   "R": "Ah, la dernière liste des meilleurs élèves de Brock. J'ai un lot de choix honorifiques prêts à partir. Il ne me reste plus qu'à graver les noms des élèves..."
  },
+ "6394": {
+  "A": "Retournez voir le Contremaître Thazz'ril en Durotar.",
+  "O": "Apportez la Pioche de Thazz'rill au Contremaître Thazz'rill.",
+  "T": "La pioche de Thazz'ril"
+ },
+ "6395": {
+  "A": "Retournez voir la Novice Elreth au Glas, dans les Clairières de Tirisfal.",
+  "D": "Avant la peste, mon amie Marla Fipps et son mari Samuel vivaient heureux. Mais quand la peste est survenue, Samuel a succombé et a rejoint les rangs du Fléau.$B$BMarla n'a échappé à l’épidémie que pour mourir des mains de son mari, privé de raison. Pourtant, son amour était si fort que sa dernière volonté fut que son bien-aimé Samuel soit enterré avec elle.$B$BSamuel Fipps erre dans un camp en ruine le long de la route au nord-est du Glas. Tuez-le et accomplissez la volonté de Marla : enterrez-le dans sa tombe, dans la première rangée de notre cimetière.",
+  "O": "Apportez le Cadavre de Samuel Fipps sur la Tombe de Marla, puis retourner voir la Novice Elreth.",
+  "T": "La dernière volonté de Marla"
+ },
  "650142": {
   "A": "Cherchez Aramadus à Shadowglen.",
   "D": "On m'a demandé de porter ceci à votre attention, $N. Il semble que ce soit un parchemin cramoisi taché de ce qui ressemble étrangement à du sang. Le parchemin vibre en rythme avec des énergies magiques sombres, et il semble provenir d'Aramadus, le mage de sang qui pratique ces arts interdits à Shadowglen. Je n'hésiterais pas à le lire avant que vous continuiez vos fonctions ici.",
@@ -12345,6 +12535,10 @@
   "D": "Ma Dame,$B$BVous savez très bien ce que nous vous proposons. L’opportunité pour vous de conquérir les Tarides et les terres au-delà est formidable. Nous voulons simplement votre aide en retour. Par aide, nous n'entendons rien d'autre que le fait que vous nous donniez la liberté d'agir dans la région.$B$BS'il vous plaît, permettez-nous d'en discuter davantage. Nous avons un grand pouvoir et sommes prêts à le partager avec ceux qui sont assez sages pour nous rejoindre. Je resterai en dehors de Razorfen Downs pour le moment.$B$BMeilleures salutations,$BAmbassadeur Malcin",
   "O": "Apportez le petit parchemin à Varimathras dans le quartier royal de Fossoyeuse.",
   "T": "Une alliance impie"
+ },
+ "656": {
+  "A": "Retournez voir les Fragments de Myzrael dans les Hinterlands.",
+  "T": "L'invocation de la Princesse"
  },
  "6581": {
   "A": "Retournez à Pixel à Ashenvale.",
@@ -12623,20 +12817,65 @@
   "O": "Parlez au maréchal McBride.",
   "T": "Une menace intérieure"
  },
+ "784": {
+  "A": "Retournez voir Gar'Thok en Durotar.",
+  "O": "Tuer 10 Marins de Kul Tiras, 8 Soldats de marine de Kul Tiras et le Lieutenant Benedict, puis retourner voir Gar'Thok à Tranchecolline.",
+  "T": "Vaincre les traîtres"
+ },
+ "786": {
+  "A": "Retournez voir Lar Fouinebroche au Village de Sen'jin, en Durotar.",
+  "O": "Détruire 3 Jeux de Plans d'attaque dans la combe des Kolkar, pour Lar Fouinebroche à l'extérieur du village de Sen'jin.",
+  "T": "Déjouer l'agression des Kolkar"
+ },
  "788": {
-  "R": "Hmmm, pas mal, Danlesanguin. Mais ne laissez pas cela vous monter à la tête... vous vous battrez plus durement que les sangliers dans votre carrière.\n\nNéanmoins, vous avez fait vos preuves et votre prochain essai se déroulera contre un adversaire considérablement plus dangereux, vous aurez donc besoin d'une protection supplémentaire."
+  "A": "Retournez voir Gornek dans la Vallée des Épreuves, en Durotar.",
+  "O": "Tuez 8 Sangliers tachetés, puis retournez voir Gornek, dans l’Antre.",
+  "R": "Hmmm, pas mal, Danlesanguin. Mais ne laissez pas cela vous monter à la tête... vous vous battrez plus durement que les sangliers dans votre carrière.\n\nNéanmoins, vous avez fait vos preuves et votre prochain essai se déroulera contre un adversaire considérablement plus dangereux, vous aurez donc besoin d'une protection supplémentaire.",
+  "T": "La dent tranchante"
  },
  "789": {
+  "A": "Retournez voir Gornek dans la Vallée des Épreuves, en Durotar.",
+  "O": "Apporter 8 Queues de scorpides ouvriers à Gornek, dans l’Antre.",
   "P": "La carapace d'un scorpide n'est pas si épaisse que la force d'un mage de sang déterminé soit dissuadée. Frappez fort et sans aucun doute, et les scorpides devraient se révéler des proies faciles.",
-  "R": "Il y a une leçon importante que vous devez retenir de la lutte contre les scorpides. Le plus petit ou le plus grand des adversaires peut toujours vous envoyer à votre perte. Dans un combat acharné, de nombreuses choses peuvent prouver votre chute.\n\nJe n'ai plus rien à t'apprendre, Danlesanguin. Vous avez bien fait et je suivrai vos progrès avec intérêt."
+  "R": "Il y a une leçon importante que vous devez retenir de la lutte contre les scorpides. Le plus petit ou le plus grand des adversaires peut toujours vous envoyer à votre perte. Dans un combat acharné, de nombreuses choses peuvent prouver votre chute.\n\nJe n'ai plus rien à t'apprendre, Danlesanguin. Vous avez bien fait et je suivrai vos progrès avec intérêt.",
+  "T": "L'aiguillon du scorpide"
+ },
+ "790": {
+  "A": "Retournez voir Hana'zua en Durotar.",
+  "O": "Tuez Sarkoth et rapportez sa pince à Hana'zua.",
+  "T": "Sarkoth"
+ },
+ "792": {
+  "A": "Retournez voir Zureetha Mireloin dans la Vallée des Épreuves, en Durotar.",
+  "T": "Les vils quasits"
+ },
+ "794": {
+  "A": "Retournez voir Zureetha Mireloin dans la Vallée des Épreuves, en Durotar.",
+  "O": "Apportez le Médaillon de la Lame ardente à Zureetha Mireloin, à l'extérieur de l'Antre.",
+  "T": "Le médaillon de la Lame ardente"
  },
  "7946": {
   "A": "Retournez voir Morja.",
   "T": "Le rejeton de Jubjub"
  },
+ "8": {
+  "O": "Livrez une Lettre à Renée, dans les Clairières de Tirisfal.",
+  "T": "Un marché de voleur"
+ },
  "804": {
+  "O": "Informer Gornek, à l'Antre, de la situation critique dans laquelle se trouve Hana'zua.",
   "P": "Ahhh... mon père a toujours dit que je n'arriverais jamais à grand-chose, et ici, allongé sous un arbre alors que la vie s'écoule, j'ai bien peur qu'il ait l'air d'avoir raison.\n\nAu moins, je souhaite mourir en sachant que mon dernier ennemi dans la vie est mort.",
-  "R": "Mon coup n’a pas suffi à le tuer, mais voir les dégâts que j’ai infligés me procure une petite dose de fierté. Cette petite mesure sera tout ce dont je disposerai pour subvenir à mes besoins si je meurs, et dans cette optique, la courte liste des réalisations de ma vie me remplit de colère."
+  "R": "Mon coup n’a pas suffi à le tuer, mais voir les dégâts que j’ai infligés me procure une petite dose de fierté. Cette petite mesure sera tout ce dont je disposerai pour subvenir à mes besoins si je meurs, et dans cette optique, la courte liste des réalisations de ma vie me remplit de colère.",
+  "T": "Sarkoth"
+ },
+ "805": {
+  "O": "Parler à Maître Gadrin au village de Sen'jin.",
+  "T": "Faire un rapport au Village de Sen'jin"
+ },
+ "806": {
+  "A": "Retournez voir Orgnil Marque-l'âme en Durotar.",
+  "O": "Apporter la Griffe de Féplouf à Orgnil Marque-l'âme à Tranchecolline.",
+  "T": "De sombres orages"
  },
  "80651": {
   "A": "Revenez avec honneur et gloire !",
@@ -12745,6 +12984,10 @@
   "D": "Une commande de réquisition a été passée pour 5 rôtis d'hiver. Seul un artisan expert utilisant des matériaux obtenus à haut risque peut créer ces objets de valeur.",
   "O": "Récupérez 5 rôtis d’hiver fondus.",
   "T": "Marchand d'armes : rôti d'hiver fondu"
+ },
+ "808": {
+  "A": "Retournez voir Maître Gadrin au Village de Sen'jin, en Durotar.",
+  "T": "Le crâne de Minshina"
  },
  "80802": {
   "A": "Retournez au tableau d’appel.",
@@ -13210,6 +13453,21 @@
   "O": "Récupérez 1 parchemin d'enchantement d'arme - Twisted Evoker.",
   "T": "Marchand d'armes : Parchemin d'enchantement d'arme - Twisted Evoker"
  },
+ "815": {
+  "A": "Retournez voir le Cuisinier Torka en Durotar.",
+  "O": "Rapporter 3 Œufs de fouette-queue au cuisinier Torka, à Tranchecolline.",
+  "T": "Des œufs pour l'omelette"
+ },
+ "817": {
+  "A": "Retournez voir Vel'rin Croc au Village de Sen'jin, en Durotar.",
+  "O": "Apporter 4 Peaux de tigres de Durotar à Vel'rin Croc, au village de Sen'jin.",
+  "T": "Proie nécessaire"
+ },
+ "818": {
+  "A": "Retournez voir Maître Vornal au Village de Sen'jin, en Durotar.",
+  "O": "Apporter 4 Yeux de makrura intacts et 8 Fioles de mucus de clampant à maître Vornal, au village de Sen'jin.",
+  "T": "Un esprit parfaitement éduqué"
+ },
  "8200501": {
   "A": "Retournez au tableau d'annonces.",
   "D": "Avis à tous les héros d'Azeroth : le seigneur funeste Kazzak a envahi le plan d'existence connu sous le nom d'Outreterre. Traquez-le dans la péninsule des Flammes infernales, au sommet du trône de Kil'jaeden !\n\nRassemblez vos forces pour détruire le seigneur funeste Kazzak.",
@@ -13227,6 +13485,14 @@
   "D": "Avis à tous les héros d'Azeroth : le seigneur funeste Kazzak a envahi le plan d'existence connu sous le nom d'Outreterre. Traquez-le dans la péninsule des Flammes infernales, au sommet du trône de Kil'jaeden !\n\nRassemblez vos forces pour détruire le seigneur funeste Kazzak.",
   "O": "Détruisez le seigneur funeste Kazzak !",
   "T": "Une menace pour l'Outreterre : Seigneur funeste Kazzak (Haut risque)"
+ },
+ "823": {
+  "O": "Parler à Orgnil Marque-l'âme à Tranchecolline.",
+  "T": "Un rapport à Orgnil"
+ },
+ "826": {
+  "A": "Retournez voir Maître Gadrin au Village de Sen'jin, en Durotar.",
+  "T": "Zalazane"
  },
  "8326": {
   "A": "Retournez voir la Magistrice Erona sur l'Île de Haut-Soleil, dans le Bois des Chants éternels.",
@@ -13302,10 +13568,20 @@
   "O": "Parler à l’estafette Alarion, près du pont qui mène au sud de l’île du Haut-Soleil.",
   "T": "Aider les estafettes"
  },
+ "835": {
+  "A": "Retournez voir Rezlak en Durotar.",
+  "O": "Tuez 12 harpies de Durotar. N'importe quel type de harpie fera l'affaire.",
+  "T": "Des lignes sécurisées"
+ },
  "8350": {
   "D": "La mort d'une nouvelle estafette est une véritable tragédie, mais c'est un risque que nous acceptons tous en même temps que ce métier. La magistrale Erona, à la Flèche solaire, a besoin que ce paquet soit livré à l'auberge de la place de l'Épervier, et ce le plus vite possible.$B$BNous sommes en effectifs réduits et je n'ai personne à part vous pour nous remplacer.$B$BJe ne vais pas vous mentir ; le chemin vers la place de l'Épervier peut être terriblement dangereux si vous vous écartez de la relative sécurité de l'allée du Point-du-jour. Vous sentez-vous à la hauteur de cette tâche, $n ?",
   "O": "Remettez le Paquet d’Erona à l’Aubergiste Delaniel, à l’auberge située sur la Place de l’Épervier, dans le Bois des Chants éternels.",
   "T": "Achever la livraison"
+ },
+ "837": {
+  "A": "Retournez voir Gar'Thok en Durotar.",
+  "O": "Tuer 4 Hurans tranchecrins, 4 Eclaireurs tranchecrins, 4 Lève-poussière tranchecrins et 4 Gardes de guerre tranchecrins pour Gar'Thok de Tranchecolline.",
+  "T": "Empiètement"
  },
  "8410": {
   "A": "Retournez voir Bath'rah la Vigie des vents à la Pointe du Noroît, dans les Montagnes d'Alterac.",
@@ -13735,6 +14011,10 @@
  },
  "887": {
   "R": "Tu as bien fait, gamin. Encore un peu de travail comme ça, et ce sera une chose de moins dont j'aurai à me soucier. Espérons qu'ils seront convaincus qu'ils devraient délocaliser leurs opérations ailleurs.\n\nEn attendant, il y a la petite question de récupérer les biens qu'ils m'ont volés !"
+ },
+ "888": {
+  "O": "Retrouver la Cargaison de bottes et la Lentille de télescope pour Gazleu de Cabestan.",
+  "T": "Course à la lentille"
  },
  "88850": {
   "A": "Retourner voir la Sentinelle Cylaeth Moonblade",
