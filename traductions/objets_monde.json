@@ -761,6 +761,9 @@
  "101101": {
   "N": "L'enchantement et toi"
  },
+ "101748": {
+  "N": "Autel de chaman"
+ },
  "101750": {
   "N": "Sanctuaire chamanique"
  },
@@ -848,8 +851,14 @@
  "102062": {
   "N": "Sparkle GO grand panneau d'affichage"
  },
+ "102986": {
+  "N": "Monceau Ju-Ju"
+ },
  "103575": {
   "N": "Piège à coffre de confinement"
+ },
+ "103813": {
+  "N": "Sceau du mausolée"
  },
  "10388": {
   "N": "Feu de cuisine"
@@ -857,8 +866,38 @@
  "104591": {
   "N": "Porte de la tour"
  },
+ "104593": {
+  "N": "Déclencheur du Mausolée"
+ },
+ "105169": {
+  "N": "Râtelier d'armes Agamand"
+ },
+ "105170": {
+  "N": "Râtelier d'armes Agamand"
+ },
+ "105171": {
+  "N": "Râtelier d'armes Agamand"
+ },
+ "105172": {
+  "N": "Râtelier d'armes Agamand"
+ },
  "105189": {
   "N": "Tempête de mana"
+ },
+ "106325": {
+  "N": "Feu ardent"
+ },
+ "106326": {
+  "N": "Feu ardent"
+ },
+ "106327": {
+  "N": "Feu ardent"
+ },
+ "106335": {
+  "N": "Feu ardent"
+ },
+ "106336": {
+  "N": "Feu ardent"
  },
  "107061": {
   "N": "Vieille route côtière"
@@ -1676,6 +1715,39 @@
  "111029": {
   "N": "Sac à dos de Skif"
  },
+ "112042": {
+  "N": "Chaise en bois"
+ },
+ "112043": {
+  "N": "Chaise en bois"
+ },
+ "112044": {
+  "N": "Chaise en bois"
+ },
+ "112045": {
+  "N": "Chaise en bois"
+ },
+ "112048": {
+  "N": "Chaise en bois"
+ },
+ "112049": {
+  "N": "Chaise en bois"
+ },
+ "112050": {
+  "N": "Chaise en bois"
+ },
+ "112061": {
+  "N": "Chaise en bois"
+ },
+ "112073": {
+  "N": "Chaise en bois"
+ },
+ "112074": {
+  "N": "Chaise en bois"
+ },
+ "112079": {
+  "N": "Chaise en bois"
+ },
  "1134104": {
   "N": "Cache forgé du monde"
  },
@@ -1810,6 +1882,9 @@
  },
  "1244638": {
   "N": "Arbre Arathi"
+ },
+ "12665": {
+  "N": "Table de cuisson"
  },
  "12666": {
   "N": "Tome du Crépuscule"
@@ -2234,6 +2309,9 @@
  "142071": {
   "N": "Oeuf-O-Matic"
  },
+ "142102": {
+  "N": "Boîte aux lettres"
+ },
  "142111": {
   "N": "Boîte aux lettres"
  },
@@ -2279,6 +2357,9 @@
  "142958": {
   "N": "Féralas : une histoire"
  },
+ "143981": {
+  "N": "Boîte aux lettres"
+ },
  "143987": {
   "N": "Boîte aux lettres"
  },
@@ -2296,6 +2377,12 @@
  },
  "148507": {
   "N": "Cercle d'Aquementas"
+ },
+ "149036": {
+  "N": "Coffre de Marvon"
+ },
+ "149038": {
+  "N": "Table de cuisson"
  },
  "149420": {
   "N": "Ani"
@@ -2438,26 +2525,158 @@
  "161": {
   "N": "Flacon de Poison Grand 2"
  },
+ "1617": {
+  "N": "Feuillargent"
+ },
+ "1618": {
+  "N": "Pacifique"
+ },
+ "1619": {
+  "N": "Terrestrine"
+ },
  "1631": {
   "N": "Moulins Agamand"
  },
  "163313": {
   "N": "Boîte aux lettres"
  },
+ "1634": {
+  "N": "Moulins d’Agamand"
+ },
+ "1644": {
+  "N": "Moulins d’Agamand"
+ },
+ "1646": {
+  "N": "Forêt des Pins-Argentés"
+ },
  "164644": {
   "N": "L'arbre mort"
+ },
+ "164662": {
+  "N": "Boîtes d'équipement"
+ },
+ "1648": {
+  "N": "Moulins d’Agamand"
+ },
+ "1649": {
+  "N": "Monastère"
  },
  "165": {
   "N": "Grande scie"
  },
+ "1650": {
+  "N": "Maleterres"
+ },
+ "1653": {
+  "N": "Forêt des Pins-Argentés"
+ },
+ "1654": {
+  "N": "Forêt des Pins-Argentés"
+ },
+ "1655": {
+  "N": "Monastère"
+ },
+ "165549": {
+  "N": "Caprice de la vierge - Voyage vers Baie-du-Butin"
+ },
+ "1656": {
+  "N": "Maleterres"
+ },
+ "165740": {
+  "N": "Brasero rudimentaire"
+ },
+ "165741": {
+  "N": "Brasero rudimentaire"
+ },
+ "165742": {
+  "N": "Brasero rudimentaire"
+ },
+ "165743": {
+  "N": "Brasero rudimentaire"
+ },
+ "165744": {
+  "N": "Brasero rudimentaire"
+ },
+ "165745": {
+  "N": "Brasero rudimentaire"
+ },
+ "165746": {
+  "N": "Brasero rudimentaire"
+ },
+ "165747": {
+  "N": "Brasero rudimentaire"
+ },
+ "165748": {
+  "N": "Brasero rudimentaire"
+ },
+ "165749": {
+  "N": "Brasero rudimentaire"
+ },
+ "165750": {
+  "N": "Brasero rudimentaire"
+ },
+ "165751": {
+  "N": "Brasero rudimentaire"
+ },
  "166": {
   "N": "Journaux d'arbre"
+ },
+ "1661": {
+  "N": "Fossoyeuse"
+ },
+ "1662": {
+  "N": "Fossoyeuse"
+ },
+ "1663": {
+  "N": "Fossoyeuse"
+ },
+ "1664": {
+  "N": "Fossoyeuse"
+ },
+ "1665": {
+  "N": "Fossoyeuse"
  },
  "168369": {
   "N": "Fournitures de sombrefer"
  },
  "168860": {
   "N": "Orbe de foudre"
+ },
+ "170055": {
+  "N": "Chaise en bois"
+ },
+ "170056": {
+  "N": "Chaise en bois"
+ },
+ "170057": {
+  "N": "Chaise en bois"
+ },
+ "170058": {
+  "N": "Chaise en bois"
+ },
+ "170059": {
+  "N": "Chaise en bois"
+ },
+ "170060": {
+  "N": "Chaise en bois"
+ },
+ "170061": {
+  "N": "Chaise en bois"
+ },
+ "170062": {
+  "N": "Chaise en bois"
+ },
+ "170063": {
+  "N": "Chaise en bois"
+ },
+ "170064": {
+  "N": "Chaise en bois"
+ },
+ "170065": {
+  "N": "Chaise en bois"
+ },
+ "170066": {
+  "N": "Chaise en bois"
  },
  "1700962": {
   "N": "Fournitures Scholomance"
@@ -2470,6 +2689,9 @@
  },
  "17189": {
   "N": "La chute d'Ameth'Aran"
+ },
+ "171938": {
+  "N": "Pomme de cactus"
  },
  "1720": {
   "N": "Le plat de Stanley"
@@ -2498,11 +2720,20 @@
  "173": {
   "N": "Brasero à feu bleu Forge"
  },
+ "1731": {
+  "N": "Filon de cuivre"
+ },
  "174": {
   "N": "Enclume commune"
  },
  "174797": {
   "N": "Cascade Xavian"
+ },
+ "174859": {
+  "N": "Brasier ardent"
+ },
+ "175080": {
+  "N": "Zeppelin (L'Aigle de fer)"
  },
  "175226": {
   "N": "Créature marine échouée"
@@ -2527,6 +2758,9 @@
  },
  "175432": {
   "N": "Levier"
+ },
+ "175566": {
+  "N": "Herbe des ténèbres"
  },
  "175590": {
   "N": "Piège à oeufs d'araignée Spire"
@@ -2572,6 +2806,12 @@
  },
  "175674": {
   "N": "Feu qui fait rage"
+ },
+ "175738": {
+  "N": "Aegwynn et la chasse au dragon"
+ },
+ "175784": {
+  "N": "Tas de bois"
  },
  "175786": {
   "N": "Cage"
@@ -2873,6 +3113,12 @@
  "176210": {
   "N": "Tente de commandement"
  },
+ "176231": {
+  "N": "La Dame Mehley"
+ },
+ "176244": {
+  "N": "L'Écume de lune"
+ },
  "1762961": {
   "N": "Faille gangrenée à Hurlevent"
  },
@@ -2921,6 +3167,9 @@
  "176592": {
   "N": "Piège à coquillages"
  },
+ "176594": {
+  "N": "Portes"
+ },
  "176632": {
   "N": "Porte"
  },
@@ -2930,11 +3179,17 @@
  "176750": {
   "N": "Os de Kodo"
  },
+ "176753": {
+  "N": "Herbe maléfique"
+ },
  "176903": {
   "N": "Porte de véranda"
  },
  "177203": {
   "N": "Porte scellée"
+ },
+ "177233": {
+  "N": "Le Bac de Pennelune"
  },
  "177244": {
   "N": "Chaudron"
@@ -2944,6 +3199,15 @@
  },
  "177274": {
   "N": "Puits de lune"
+ },
+ "178087": {
+  "N": "Pioche de Thazz'ril"
+ },
+ "178089": {
+  "N": "Aura de la pioche de Thazz'ril"
+ },
+ "178090": {
+  "N": "Tombe de Marla"
  },
  "178124": {
   "N": "Cristal de résonite (Piège"
@@ -3056,6 +3320,9 @@
  "180323": {
   "N": "Portes de Zul'Gurub"
  },
+ "180340": {
+  "N": "Bougie 03"
+ },
  "180367": {
   "N": "Autel de Zanza"
  },
@@ -3085,6 +3352,9 @@
  },
  "180600": {
   "N": "Caisse de cristaux de mana instables"
+ },
+ "180656": {
+  "N": "Petit banc de sagerelles"
  },
  "180671": {
   "N": "Sac Démon de Xandivious"
@@ -3128,8 +3398,23 @@
  "180749": {
   "N": "Gai-parleur"
  },
+ "18075": {
+  "N": "Table de cuisson"
+ },
+ "18076": {
+  "N": "Feu de camp"
+ },
+ "18077": {
+  "N": "Casier fumant"
+ },
  "180771": {
   "N": "Lanceur de feux d'artifice"
+ },
+ "18079": {
+  "N": "Chaudron bouillonnant"
+ },
+ "18083": {
+  "N": "Chaudron bouillonnant"
  },
  "18087": {
   "N": "Feu de camp"
@@ -3341,6 +3626,9 @@
  "181381": {
   "N": "Boîte aux lettres"
  },
+ "181388": {
+  "N": "Dressé, Intérieur, Moyen - FFS"
+ },
  "181389": {
   "N": "Suspension, Haut/Etroit, Grand - FFS"
  },
@@ -3511,6 +3799,9 @@
  },
  "181953": {
   "N": "Île de Shalandis"
+ },
+ "181959": {
+  "N": "Torche de caverne"
  },
  "181967": {
   "N": "La Flèche Solaire"
@@ -4505,6 +4796,9 @@
  "184941": {
   "N": "Coffre solide en adamantite"
  },
+ "184949": {
+  "N": "Table d'alchimie du docteur"
+ },
  "184958": {
   "N": "Oeuf de Drake du Néant"
  },
@@ -4655,6 +4949,9 @@
  "186221": {
   "N": "Doodad de musique de la fête des Brasseurs"
  },
+ "186238": {
+  "N": "Zeppelin, Horde (Le Grand vent)"
+ },
  "186251": {
   "N": "Pierre de rencontre"
  },
@@ -4663,6 +4960,9 @@
  },
  "186475": {
   "N": "Siège de pêche"
+ },
+ "186658": {
+  "N": "Coffre de Kraz "
  },
  "186898": {
   "N": "Banc"
@@ -4676,8 +4976,17 @@
  "187058": {
   "N": "Cellule de mana"
  },
+ "1872": {
+  "N": "Feu de camp"
+ },
  "187260": {
   "N": "Boîte aux lettres"
+ },
+ "187299": {
+  "N": "Coffre-fort de guilde"
+ },
+ "1873": {
+  "N": "Feu de camp"
  },
  "187345": {
   "N": "Plateau du Puits de Soleil"
@@ -4739,6 +5048,9 @@
  "188180": {
   "N": "Tente de gobelin 02"
  },
+ "188232": {
+  "N": "Panneau vide"
+ },
  "189993": {
   "N": "Portail vers Theramore"
  },
@@ -4747,6 +5059,9 @@
  },
  "190021": {
   "N": "Chaudron"
+ },
+ "190226": {
+  "N": "Chaloupe"
  },
  "19034": {
   "N": "Pièce murale avec escaliers"
@@ -4762,6 +5077,12 @@
  },
  "1903520": {
   "N": "Transporteur portable démoniaque"
+ },
+ "190549": {
+  "N": "Le Zéphyr"
+ },
+ "190666": {
+  "N": "Tente d'apothicaire"
  },
  "191009": {
   "N": "Portail vers Orgrimmar"
@@ -4784,6 +5105,12 @@
  "191714": {
   "N": "Doodad_InstancePortal_PurpleDifficulty01"
  },
+ "191790": {
+  "N": "Fusée de feu d'artifice de Dalaran"
+ },
+ "191817": {
+  "N": "Chaise de barbier"
+ },
  "191840": {
   "N": "Œuf de proto-drake pestiféré"
  },
@@ -4795,6 +5122,9 @@
  },
  "192733": {
   "N": "Doodad_InstanceNewPortal_Purple01"
+ },
+ "193218": {
+  "N": "Tente orque"
  },
  "193878": {
   "N": "Chariot de la marche de l'Ouest"
@@ -4843,6 +5173,9 @@
  },
  "19536": {
   "N": "Feu de camp crépitant"
+ },
+ "195457": {
+  "N": "Zeppelin de Grom'gol"
  },
  "195508": {
   "N": "Tasse de malt Rhapsody"
@@ -4976,14 +5309,56 @@
  "2008": {
   "N": "Dangereux!"
  },
+ "2033": {
+  "N": "Moulins d’Agamand"
+ },
  "20352": {
   "N": "Cercle d'emprisonnement"
+ },
+ "2036": {
+  "N": "Moulins d’Agamand"
+ },
+ "2045": {
+  "N": "Etouffante"
  },
  "206": {
   "N": "TAURENKODOHIDE"
  },
+ "2061": {
+  "N": "Feu de camp"
+ },
  "206397": {
   "N": "Troisième cluster de bombes"
+ },
+ "20649": {
+  "N": "Ascenseur souterrain"
+ },
+ "20650": {
+  "N": "Porte supérieure gauche"
+ },
+ "20651": {
+  "N": "Porte inférieure gauche"
+ },
+ "20652": {
+  "N": "Ascenseur souterrain"
+ },
+ "20653": {
+  "N": "Porte supérieure gauche"
+ },
+ "20654": {
+  "N": "Porte inférieure gauche"
+ },
+ "20655": {
+  "N": "Ascenseur souterrain"
+ },
+ "20656": {
+  "N": "Porte supérieure gauche"
+ },
+ "20657": {
+  "N": "Porte inférieure gauche"
+ },
+ "2066": {
+  "N": "Dégâts Feu de joie"
  },
  "206653": {
   "N": "Porte du Marteau-hardi"
@@ -5005,6 +5380,9 @@
  },
  "208": {
   "N": "TAURENBOWL08"
+ },
+ "20808": {
+  "N": "Le Caprice de la vierge"
  },
  "208205": {
   "N": "Grille"
@@ -5087,8 +5465,14 @@
  "211065": {
   "N": "Tombe"
  },
+ "21277": {
+  "N": "Caisse trouée"
+ },
  "212921": {
   "N": "pa_shadowpandoor"
+ },
+ "21530": {
+  "N": "Manuel d'utilisateur de Sniffetarin"
  },
  "2154523": {
   "N": "RECHERCHE : Krelin, le Swashbuckler"
@@ -5666,6 +6050,27 @@
  "222": {
   "N": "Souche de hache petite"
  },
+ "22216": {
+  "N": "Brasero nain"
+ },
+ "22217": {
+  "N": "Brasero nain"
+ },
+ "22218": {
+  "N": "Brasero nain"
+ },
+ "22219": {
+  "N": "Brasero nain"
+ },
+ "22220": {
+  "N": "Brasero nain"
+ },
+ "22221": {
+  "N": "Brasero nain"
+ },
+ "22222": {
+  "N": "Brasero nain"
+ },
  "223": {
   "N": "Squelette enchaîné 04"
  },
@@ -5683,6 +6088,57 @@
  },
  "2260448": {
   "N": "Tabouret"
+ },
+ "22732": {
+  "N": "Chaise en bois"
+ },
+ "22733": {
+  "N": "Chaise en bois"
+ },
+ "22735": {
+  "N": "Chaise en bois"
+ },
+ "22737": {
+  "N": "Chaise à haut dossier"
+ },
+ "22738": {
+  "N": "Chaise à haut dossier"
+ },
+ "22739": {
+  "N": "Chaise en bois"
+ },
+ "22740": {
+  "N": "Chaise en bois"
+ },
+ "22742": {
+  "N": "Chaise en bois"
+ },
+ "22743": {
+  "N": "Chaise en bois"
+ },
+ "22745": {
+  "N": "Chaise en bois"
+ },
+ "22746": {
+  "N": "Chaise en bois"
+ },
+ "22747": {
+  "N": "Chaise en bois"
+ },
+ "22748": {
+  "N": "Chaise en bois"
+ },
+ "22749": {
+  "N": "Chaise en bois"
+ },
+ "22750": {
+  "N": "Chaise en bois"
+ },
+ "22752": {
+  "N": "Chaise en bois"
+ },
+ "22753": {
+  "N": "Chaise à haut dossier"
  },
  "2279897": {
   "N": "Pierre d'épée"
@@ -8498,6 +8954,9 @@
  "255081": {
   "N": "Protections du cratère de Dalaran"
  },
+ "2562": {
+  "N": "Pain cuit"
+ },
  "260845": {
   "N": "Coffre sombre"
  },
@@ -8711,11 +9170,47 @@
  "300601": {
   "N": "Cercle runique"
  },
+ "31408": {
+  "N": "Feu de joie"
+ },
+ "31411": {
+  "N": "Feu de joie ardent"
+ },
  "315590": {
   "N": "Coffre d'accessoires RPG"
  },
+ "31572": {
+  "N": "Brasero moyen"
+ },
+ "31573": {
+  "N": "Brasero moyen"
+ },
+ "31574": {
+  "N": "Casier fumant"
+ },
+ "31575": {
+  "N": "Grand brasero"
+ },
  "31576": {
   "N": "Brasero moyen"
+ },
+ "31577": {
+  "N": "Grand brasero"
+ },
+ "31578": {
+  "N": "Grand brasero"
+ },
+ "31579": {
+  "N": "Grand brasero"
+ },
+ "3189": {
+  "N": "Plan d'attaque : Vallée des Épreuves"
+ },
+ "3190": {
+  "N": "Plan d'attaque : Village de Sen’jin"
+ },
+ "3192": {
+  "N": "Plan d'attaque : Orgrimmar"
  },
  "3194474": {
   "N": "Feu de camp"
@@ -8912,6 +9407,9 @@
  "3227794": {
   "N": "Boulon en tissu bleu"
  },
+ "3228": {
+  "N": "Les Tarides"
+ },
  "3228533": {
   "N": "Tapis Elfe de Sang"
  },
@@ -9074,6 +9572,9 @@
  "3236933": {
   "N": "Feu de camp"
  },
+ "3237": {
+  "N": "Sombrelance emprisonné"
+ },
  "3237020": {
   "N": "Bougie draeneï"
  },
@@ -9112,6 +9613,9 @@
  },
  "3239896": {
   "N": "Autel"
+ },
+ "3240": {
+  "N": "Œuf de fouette-queue"
  },
  "3240547": {
   "N": "Crâne d'orque"
@@ -9608,6 +10112,33 @@
  "3282474": {
   "N": "Miser"
  },
+ "32833": {
+  "N": "Chaise en bois"
+ },
+ "32856": {
+  "N": "Chaise en bois"
+ },
+ "32857": {
+  "N": "Chaise en bois"
+ },
+ "32858": {
+  "N": "Chaise en bois"
+ },
+ "32859": {
+  "N": "Chaise en bois"
+ },
+ "32860": {
+  "N": "Chaise en bois"
+ },
+ "32861": {
+  "N": "Chaise en bois"
+ },
+ "32862": {
+  "N": "Chaise en bois"
+ },
+ "32863": {
+  "N": "Chaise en bois"
+ },
  "3287954": {
   "N": "Cargaison"
  },
@@ -9899,6 +10430,12 @@
  "341060": {
   "N": "Équipement d'infanterie"
  },
+ "34167": {
+  "N": "Chaise en bois"
+ },
+ "34168": {
+  "N": "Chaise en bois"
+ },
  "34357": {
   "N": "Potions BerryFizz et boissons mélangées"
  },
@@ -10028,6 +10565,12 @@
  "37": {
   "N": "La pierre tombale d'Eliza"
  },
+ "3719": {
+  "N": "Caisse de nourriture"
+ },
+ "375": {
+  "N": "Potiron de Tirisfal"
+ },
  "375003": {
   "N": "Sacoche d'expédition"
  },
@@ -10099,6 +10642,21 @@
  },
  "381011": {
   "N": "Restes suspects"
+ },
+ "3847": {
+  "N": "Brasier ardent"
+ },
+ "3848": {
+  "N": "Brasier ardent"
+ },
+ "3849": {
+  "N": "Brasier ardent"
+ },
+ "3850": {
+  "N": "Brasier ardent"
+ },
+ "3851": {
+  "N": "Brasier ardent"
  },
  "387359": {
   "N": "Gong des challengers"
@@ -10589,6 +11147,9 @@
  "396540": {
   "N": "Tache de sang"
  },
+ "3972": {
+  "N": "AVIS DE RECHERCHE"
+ },
  "4": {
   "N": "Dégâts du feu de joie"
  },
@@ -10861,6 +11422,9 @@
  },
  "507801": {
   "N": "Vortex de cartes"
+ },
+ "50983": {
+  "N": "Forge vive"
  },
  "511806": {
   "N": "Pagaie de bateau Kultira"
@@ -12587,6 +13151,9 @@
  "532803": {
   "N": "(NO_ITEM_TEMPLATE) COMMON_ASC_RPG_Axe_1H_Hatchet_D_01___Axe_1H_Hatchet_D_01"
  },
+ "55250": {
+  "N": "Grand brasero"
+ },
  "554523": {
   "N": "Fleur de Guri"
  },
@@ -12851,6 +13418,9 @@
  "61850": {
   "N": "Biens volés"
  },
+ "61934": {
+  "N": "Brasero de la Flamme Dormante"
+ },
  "620690": {
   "N": "Œuf de dragonnet"
  },
@@ -13112,6 +13682,9 @@
  "63517": {
   "N": "Quelque chose de brillant"
  },
+ "63674": {
+  "N": "Autel de chaman"
+ },
  "638836": {
   "N": "Lame de Darnell"
  },
@@ -13123,6 +13696,15 @@
  },
  "648066": {
   "N": "Baguette mystique"
+ },
+ "64856": {
+  "N": "Chaise en bois"
+ },
+ "64857": {
+  "N": "Chaise en bois"
+ },
+ "64858": {
+  "N": "Chaise en bois"
  },
  "65": {
   "N": "Grille de poisson frais"
@@ -13621,6 +14203,9 @@
  },
  "686937": {
   "N": "Fixations Glacierpaw"
+ },
+ "68865": {
+  "N": "Bâtons de commandement de Sniffetarin"
  },
  "690479": {
   "N": "Oeufs d'araignée"
